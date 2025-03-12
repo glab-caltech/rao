@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="VADAR">
+    <meta name="keywords" content="VADAR, Omni3D-Bench, Program Synthesis">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Single Instance Dataset Sample Viewer</title>
+
+    <style>
+        /* Container for horizontal buttons */
+        .button-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .main-page-button {
+            background-color: #003f5c;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 20px;
+            transition: background-color 0.3s ease;
+            margin-top: 10px;
+        }
+
+        /* Style for supercategory and subcategory buttons */
+        .category-button {
+            background-color: #2f4b7c;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            margin-top: 10px;
+        }
+
+        .json-button {
+            background-color: #665191;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            margin-top: 10px;
+        }
+
+        /* Active style for selected supercategory button */
+        .active {
+            background-color: #ffa600;
+            color: white;
+        }
+    </style>
+
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <link rel="stylesheet" href="./static/css/bulma.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./static/css/index.css">
+    <link rel="icon" href="./static/images/vader_heart.png">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.9.0.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.9.0.min.js"></script>
+    <script defer src="./static/js/fontawesome.all.min.js"></script>
+    <script src="./static/js/bulma-carousel.min.js"></script>
+    <script src="./static/js/bulma-slider.min.js"></script>
+    <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+    <section class="hero">
+        <div class="hero-body">
+            <div class="container is-max-desktop">
+                <div class="columns is-centered">
+                    <div class="column has-text-centered">
+                        <h1 class="title is-1 publication-title">Single Instance Dataset Sample Viewer</h1>
+                        <div class="column has-text-centered">
+                            <div class="publication-links">
+                                <div class="button-container">
+                                    <button class="main-page-button"
+                                        onclick="window.location.href='https://glab-caltech.github.io/rao/';">
+                                        Main Page
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <!-- Supercategory buttons container -->
+        <div class="button-container" id="supercategories"> </div>
+
+        <!-- Subcategory (JSON file) buttons container -->
+        <div class="button-container" id="subcategories"></div>
+    </section>
+
+    <script>
+        // Example data structure mapping each supercategory to its list of JSON files.
+        const categoryData = {
+            'Electronics': ['Earbuds', 'Fans', 'Headphones', 'Keyboards', 'Laptops', 'Microphones', 'Mice', 'Radios', 'Smartwatches', 'Speakers'],
+            'Fashion': ['Bags', 'Handbags', 'Keychains', 'Sunglasses', 'Wallets', 'Watches'],
+            'Furniture': ['Clocks', 'Lanterns', 'Stools', 'Vases'],
+            'Baby Items': ['Cribs'],
+            'Kitchen Items': ['Blenders', 'Hampers', 'Kettles', 'Knives', 'Mixers', 'Mugs', 'Teapots',],
+            'Office': ['Chairs', 'Vacuums'],
+            'Pet Items': ['Bowls', 'Cat Trees', 'Feeders', 'Kennels', 'Toys'],
+
+        };
+
+        // Create supercategory buttons on page load.
+        function initSuperCategories() {
+            const container = document.getElementById('supercategories');
+            for (let category in categoryData) {
+                const btn = document.createElement('button');
+                btn.textContent = category;
+                btn.className = 'category-button';
+                btn.onclick = function () {
+                    // Remove the active class from all supercategory buttons.
+                    document.querySelectorAll('.category-button').forEach(b => b.classList.remove('active'));
+                    // Set the clicked button as active.
+                    btn.classList.add('active');
+                    // Load the corresponding subcategory JSON file buttons.
+                    loadSubcategories(category);
+                };
+                container.appendChild(btn);
+            }
+        }
+
+        // Load subcategory buttons for the selected supercategory.
+        function loadSubcategories(category) {
+            const subContainer = document.getElementById('subcategories');
+            // Clear any existing subcategory buttons.
+            subContainer.innerHTML = '';
+            const files = categoryData[category];
+            files.forEach(file => {
+                const btn = document.createElement('button');
+                btn.textContent = file;
+                btn.className = 'json-button';
+                // Add any additional click actions for these buttons if needed.
+                subContainer.appendChild(btn);
+            });
+        }
+
+        // Initialize the buttons when the page loads.
+        window.onload = initSuperCategories;
+    </script>
+</body>
+
+</html>
