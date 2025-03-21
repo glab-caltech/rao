@@ -178,8 +178,8 @@
                             TODO
                         </p>
                         <div class="image-container">
-                            <img src="static/images/dataset-figure.png" alt="Approach">
-                            <img src="static/images/class_distribution.png" alt="Second Image">
+                            <img src="static/images/dataset-figure.jpeg" alt="Approach">
+                            <img src="static/images/class_distribution.jpeg" alt="Second Image">
                         </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@
                         <p>
                             TODO
                         </p>
-                        <img src="static/images/method.png" alt="Approach" width="100%">
+                        <img src="static/images/method.jpeg" alt="Approach" width="100%">
                     </div>
                 </div>
             </div>
@@ -206,54 +206,59 @@
     </section>
 
     <section class="section">
-        <div class="container is-max-desktop">
-            <!-- Attention Maps -->
+        <div class="container is-max-desktop is-fluid">
             <div class="columns is-centered has-text-centered">
                 <div class="column is-full-width">
-                    <h2 class="title is-3">Attention Visualizations</h2>
-                    <div class="content has-text-justified">
-                        <p>
-                            We visualize attention maps for <em>unseen</em> test instances below. iFormer focuses on key
-                            object features, such as the handle of the knife, the frame of the sunglasses, and the band
-                            of
-                            the watch. In contrast, CLIP - trained with text supervision and a
-                            different objective - produces a broader and less targeted attention distribution.
-                        </p>
-                        <img src="static/images/attn_maps.png" alt="Attention Maps" width="100%">
+                    <h2 class="title is-3">Results</h2>
+                    <div class="tabs is-boxed is-centered is-medium" id="tabs">
+                        <ul>
+                            <li data-tab="attn" class="is-active"><a>Attention Maps</a></li>
+                            <li data-tab="qual"><a>Qualitative Examples</a></li>
+                            <li data-tab="umap"><a>UMAP Plots</a></li>
+                        </ul>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container is-max-desktop">
-            <!-- Attention Maps -->
-            <div class="columns is-centered has-text-centered">
-                <div class="column is-full-width">
-                    <h2 class="title is-3">Qualitative Results</h2>
-                    <div class="content has-text-justified">
-                        <p>
-                            TODO.
-                        </p>
-                        <img src="static/images/qualitative.png" alt="Qualitative Examples" width="100%">
+                    <div class="columns is-centered has-text-left">
+                        <div class="column is-two-thirds content">
+                            <p>All results shown are on <em>unseen</em> test instances.</p>
+                        </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section>
+                    <!-- Attn Maps -->
+                    <div id="tabs-content">
+                        <div data-content="attn" class="tab-content is-active content has-text-left">
+                            <div class="columns is-centered has-text-left">
+                                <div class="column is-two-thirds content">
+                                    We visualize attention maps for both iFormer and Native CLIP. iFormer focuses on key
+                                    object features, such as the handle of the knife, the frame of the sunglasses, and
+                                    the band of the watch. In contrast, CLIP - trained with text supervision and a
+                                    different objective - produces a broader and less targeted attention distribution.
+                                </div>
+                            </div>
+                            <img src="static/images/attn_maps.jpeg" alt="Approach" width="100%">
 
-    <section class="section">
-        <div class="container is-max-desktop">
-            <!-- Attention Maps -->
-            <div class="columns is-centered has-text-centered">
-                <div class="column is-full-width">
-                    <h2 class="title is-3">UMAP Visualizations</h2>
-                    <div class="content has-text-justified">
-                        <p>
-                            TODO.
-                        </p>
-                        <img src="static/images/umap.png" alt="UMAP projections" width="100%">
+                        </div>
+                        <!-- Qualitative Examples -->
+                        <div data-content="qual" class="tab-content content">
+                            <div class="columns is-centered has-text-left">
+                                <div class="column is-two-thirds content">
+                                    We show qualitative examples for vision foundation models and iFormer. For each
+                                    query image, we show the image with the highest cosine similarity from a reference
+                                    set. iFormer is more adept at matching colors and fine-grained details, especially
+                                    with a CLIP backbone.
+                                </div>
+                            </div>
+                            <img src="static/images/qualitative.jpeg" alt="Approach" width="100%">
+                        </div>
+                        <!-- UMAP Plots -->
+                        <div data-content="umap" class="tab-content content">
+                            <div class="columns is-centered has-text-left">
+                                <div class="column is-two-thirds content">
+                                    We show UMAP projections of iFormer embeddings across backbones.
+                                    iFormer with a CLIP backbone shows strong instance-level clustering. With DINOv2 and
+                                    SigLIP backbones, where iFormer performs worse, the clustering is less salient.
+                                </div>
+                            </div>
+                            <img src="static/images/umap.jpeg" alt="Approach" width="100%">
+                        </div>
                     </div>
                 </div>
             </div>
