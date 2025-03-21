@@ -118,8 +118,7 @@
                     <p>
                         <b>tl;dr</b> We introduce <b>Single Instance Recognition</b>, a novel task aimed at identifying
                         instances of objects in a zero-shot, open-world setting, along with an accompanying benchmark:
-                        the
-                        <b>Single Instance Dataset</b>.
+                        the <b>Single Instance Dataset</b>, and a baseline: <b>iFormer</b>.
                     </p>
                 </div>
             </div>
@@ -168,19 +167,20 @@
 
     <section class="section">
         <div class="container is-max-desktop">
-            <!-- Approach. -->
+            <!-- SID. -->
             <div class="columns is-centered has-text-centered">
                 <div class="column is-full-width">
-                    <h2 class="title is-3">Single Instance Dataset (SID)</h2>
+                    <h2 class="title is-3">Single Instance Dataset</h2>
 
                     <div class="content has-text-justified">
                         <p>
-                            TODO
+                            <b>Single Instance Dataset (SID)</b> comprises 2,022 instances from 36 categories of
+                            common objects with over 47,000 images. Each instance is defined by positive images of
+                            varying context and background, and is augmented with negatives. SID contains <b>4-20x</b>
+                            more instances, several orders of magnitudes more images, and covers more categories than
+                            other instance-specific datasets.
                         </p>
-                        <div class="image-container">
-                            <img src="static/images/dataset-figure.jpeg" alt="Approach">
-                            <img src="static/images/class_distribution.jpeg" alt="Second Image">
-                        </div>
+                        <img src="static/images/dataset-figure.jpeg" alt="Single Instance Dataset" width="100%">
                     </div>
                 </div>
             </div>
@@ -192,11 +192,36 @@
             <!-- Approach. -->
             <div class="columns is-centered has-text-centered">
                 <div class="column is-full-width">
+                    <h2 class="title is-3">Distribution of Instances</h2>
+
+                    <div class="content has-text-justified">
+                        <p>
+                            We show the distribution of instances across the 36 categories and 8 supercategories in SID
+                            below.
+                        </p>
+                        <img src="static/images/class_distribution.jpeg" alt="Single Instance Dataset" width="100%">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- (b) Distribution ofinstances across the 36 categories and 8 supercategories in \ourdata. -->
+
+    <section class="section">
+        <div class="container is-max-desktop">
+            <!-- Approach. -->
+            <div class="columns is-centered has-text-centered">
+                <div class="column is-full-width">
                     <h2 class="title is-3">Approach - iFormer</h2>
 
                     <div class="content has-text-justified">
                         <p>
-                            TODO
+                            iFormer projects embeddings from a vision model to generate query embeddings, predicting
+                            instances via cosine similarity with reference images. A contrastive objective aligns
+                            same-instance projections while separating negatives. For inference, instances
+                            are predicted by taking the highest cosine similarity over a set of reference images and
+                            comparing against a threshold.
                         </p>
                         <img src="static/images/method.jpeg" alt="Approach" width="100%">
                     </div>
