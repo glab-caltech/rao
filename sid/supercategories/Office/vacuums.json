@@ -1,1 +1,487 @@
-{"eureka stick vacuum": {"Positive": {"Ref": ["01efba24.jpeg", "47bf35ff.jpeg", "54000ea0.jpeg"], "Eval": ["c9b1077b.jpeg", "38b14dc7.jpeg", "8c1ac789.jpeg", "5ad7663d.jpeg", "5376e6d3.jpeg", "551c0f3f.jpeg", "7d0a947c.jpeg", "03c318d0.jpeg", "a6c7d4a1.jpeg", "ab1b62ee.jpeg", "e2f18298.jpeg", "0d6c0dff.jpeg", "6044b24a.jpeg", "994aa257.jpeg", "4e67d30c.jpeg", "7ebdc3b7.jpeg", "b22b6d59.jpeg"]}, "Negative": ["3d6655c4.jpeg", "0f24c17a.jpeg", "f9eb4edf.jpeg", "5431872a.jpeg", "14294e9b.jpeg", "1075e81c.jpeg", "2684abf8.jpeg", "5f32aa8c.jpeg", "ccbef0cc.jpeg", "92aa00b8.jpeg", "cbe22010.jpeg", "8281b3e5.jpeg", "7a5515b3.jpeg", "56f467c0.jpeg", "93899e14.jpeg", "64be0c62.jpeg", "06b7e455.jpeg", "faa3f7f1.jpeg", "f82e567e.jpeg", "3e50dd46.jpeg", "3ccd5236.jpeg", "e7a9c12e.jpeg", "9bafa3d6.jpeg", "c3227d80.jpeg", "d23bbc1a.jpeg", "467aa56d.jpeg", "e69d3288.jpeg", "c2687468.jpeg", "4ff193a9.jpeg", "d681722b.jpeg", "e8136390.jpeg", "aa3fa613.jpeg", "4b40c5dc.jpeg", "ca891c84.jpeg", "04a7049a.jpeg", "68fab053.jpeg", "c3510cb4.jpeg", "d9751f62.jpeg", "2e90e50d.jpeg", "1f49ff02.jpeg", "0f9ac7ad.jpeg", "5e680e28.jpeg", "b301091e.jpeg", "5aebd9d9.jpeg", "fa70cb2a.jpeg", "b1d4e178.jpeg", "069f9654.jpeg", "961ade58.jpeg", "63463def.jpeg", "418ffd22.jpeg", "e80cd9ea.jpeg", "32551c39.jpeg", "a7d5973c.jpeg", "360cbeca.jpeg", "e90bee5d.jpeg", "bbe87333.jpeg", "b08b6707.jpeg", "fd4a1c70.jpeg", "6b30eadf.jpeg", "711d4eaa.jpeg", "6fd26474.jpeg", "498e8934.jpeg", "523ecdee.jpeg", "b24843ac.jpeg", "1b704dff.jpeg", "49f3194d.jpeg", "074b3a0d.jpeg", "2cfe7285.jpeg", "7310a5ef.jpeg", "a23a8d10.jpeg", "8ea5494c.jpeg", "8fc399b0.jpeg", "9474cf25.jpeg", "b5829ca3.jpeg", "37007eaa.jpeg", "1e80459e.jpeg", "e8f6953f.jpeg", "04738fb3.jpeg", "49445a15.jpeg", "6aa6139f.jpeg", "13dbdba6.jpeg", "c289995f.jpeg", "1282135d.jpeg", "b8ead49d.jpeg", "c4195698.jpeg", "9148f437.jpeg", "4e8c7db0.jpeg", "e87d484c.jpeg", "34c6eab3.jpeg", "2f39ff18.jpeg", "72f72a27.jpeg", "aaedee46.jpeg", "1fb956a0.jpeg", "d92ce870.jpeg", "ead5b3d0.jpeg", "6adaeb70.jpeg", "7abd3233.jpeg", "06655e0c.jpeg", "c94929ee.jpeg", "0cff1490.jpeg", "2752b917.jpeg", "44b7a8be.jpeg", "be94e380.jpeg", "20fb9db7.jpeg", "299ecf5a.jpeg", "b4cc4cf0.jpeg", "39ea3a25.jpeg", "2e392667.jpeg", "d591f13d.jpeg", "00fc05d1.jpeg", "f1a9aeac.jpeg", "cfe90b0e.jpeg", "3064516d.jpeg", "b9e2837b.jpeg", "0af0cce5.jpeg", "59eeeecf.jpeg", "de3a3ba8.jpeg", "1573041f.jpeg", "8ed8708e.jpeg", "b5f2bf53.jpeg", "89ca7811.jpeg", "3709feb6.jpeg", "83b5761c.jpeg", "15602d80.jpeg", "17098fd3.jpeg", "6de5042d.jpeg", "8bed1f30.jpeg", "3b68317a.jpeg", "aec3ea44.jpeg", "b460152b.jpeg", "e7c6c740.jpeg", "4d1da49a.jpeg", "a8c5b3dd.jpeg", "00b478b8.jpeg", "43ea9dd2.jpeg", "1d8fa0f0.jpeg", "8e45e328.jpeg", "bb61b8f5.jpeg", "87652a2b.jpeg", "768243ea.jpeg", "275a781f.jpeg", "e3e22af0.jpeg", "d08b1836.jpeg", "82135b72.jpeg", "73d073fd.jpeg", "b47a07e8.jpeg", "7ce5074c.jpeg", "366fec29.jpeg", "8aae8bec.jpeg", "d03682a9.jpeg", "5c6da92b.jpeg", "1a70b8c1.jpeg", "eac5dc49.jpeg", "78886701.jpeg", "a1ec4586.jpeg", "05cb9265.jpeg", "33f63211.jpeg", "18fbab4f.jpeg", "756129c0.jpeg", "f73836ff.jpeg", "aac17518.jpeg", "07b77ce7.jpeg", "8b9e87b3.jpeg", "d9bb6ca7.jpeg", "ae57d0d1.jpeg", "b4097b2e.jpeg", "fa960680.jpeg", "34cbe2b2.jpeg", "68471763.jpeg", "15045b83.jpeg", "f64eeb18.jpeg", "705b2d7f.jpeg", "7caf2498.jpeg", "3f7da675.jpeg", "266814a3.jpeg", "09dbee8c.jpeg", "24bcdd70.jpeg", "6ecc9f37.jpeg", "add96025.jpeg", "c56513f4.jpeg", "3938f40a.jpeg", "80a40cf7.jpeg", "e176601a.jpeg", "97d8341b.jpeg", "467c1dae.jpeg", "6cedc8c7.jpeg", "00056104.jpeg", "57ecd6d0.jpeg", "d85139a5.jpeg", "bcc1e3c2.jpeg", "07d8754b.jpeg", "943e1fa4.jpeg", "7bb65038.jpeg", "07ae9b43.jpeg", "e8ba2e1e.jpeg", "c2ee2be0.jpeg", "b28366b9.jpeg", "db3c9ac9.jpeg", "e323491e.jpeg", "e4ac2a8a.jpeg", "7368f1a3.jpeg", "c3a950c1.jpeg", "a1fa23bd.jpeg", "800d8fb5.jpeg", "fe19c9d5.jpeg", "87957dce.jpeg", "15b945a7.jpeg", "de764f47.jpeg", "2714bcbc.jpeg", "a274288b.jpeg", "60f41d6c.jpeg", "8a0c7b34.jpeg", "b8621d32.jpeg", "91ee801b.jpeg", "768725be.jpeg", "4394a0ef.jpeg", "dfd89afd.jpeg", "234a7056.jpeg", "d2a5cd19.jpeg", "cb887749.jpeg", "7ff4cbba.jpeg", "e9353ea7.jpeg", "f8ad031a.jpeg", "c4bdd227.jpeg", "cf9522a0.jpeg", "c48ba38e.jpeg", "3335879d.jpeg", "db831214.jpeg", "aab9bb87.jpeg", "5f54ec36.jpeg", "0fcfe62d.jpeg", "17409255.jpeg", "0457fa69.jpeg", "85fa7383.jpeg", "6b86482c.jpeg", "9ef27417.jpeg", "a77184a8.jpeg", "3b6ba13c.jpeg", "11e1f5bb.jpeg", "8776bb74.jpeg", "786ecbfb.jpeg", "bd7c793d.jpeg", "f97af89f.jpeg", "06ed0de8.jpeg", "3ec22361.jpeg", "f2877902.jpeg", "c08dc936.jpeg", "70ab77da.jpeg", "7fc508ec.jpeg", "1c489e5a.jpeg", "fec9a49e.jpeg", "3c594708.jpeg", "e4b47bfc.jpeg", "a7b17038.jpeg", "a36c1fb5.jpeg", "9240bf55.jpeg", "a9dfac24.jpeg", "9fd039f6.jpeg", "f1fd65b8.jpeg", "1208377a.jpeg", "a19c506a.jpeg", "fde06305.jpeg", "bd02b36d.jpeg", "343ba46b.jpeg"]}, "B07313S199": {"Positive": {"Ref": ["71n0nrT8uWL._SL1600_.jpg", "71VuoC+uu1L.jpg", "61L6qo2S+TL.jpg"], "Eval": ["C13I4qj5RfS._SL1600_.jpg", "6122LigciUL._SL1600_.jpg", "81locTJuehL._SL1600_.jpg", "710bofu7J+L._SL1600_.jpg", "715Vbj05XGL.jpg"]}, "Negative": ["715ifumuq7L.jpg", "71MgKn5uWsL.jpg", "71Sh4Tgo6ML.jpg", "61ZnY8h8IaL.jpg", "71SvY90BUwL.jpg", "61mnPKHWKfL._SL1600_.jpg", "71FPt4tp1GL.jpg", "711qTHTy9QL.jpg", "51gBvh-51-L._SL1600_.jpg", "71Izw6TCVYL.jpg", "B07313S199-0.jpg", "B07313S199-1.jpg", "B07313S199-2.jpg", "B07313S199-3.jpg", "B07313S199-4.jpg"]}, "B078MPFN55": {"Positive": {"Ref": ["71b3HVD1xvL._SL1600_.jpg", "71Sh4Tgo6ML.jpg", "712997Ok0RL.jpg", "71wal+6d9JL._SL1600_.jpg"], "Eval": ["712OxNi0eeL.jpg", "71ipn4nSbxL.jpg", "716Jhpf1K8L.jpg", "71VhTexcX3L.jpg", "51gBvh-51-L._SL1600_.jpg", "81xwwGn8B7L.jpg", "71SCsajqvzL.jpg", "61Gi9LlktIL._SL1600_.jpg", "71UiCkYyGeL.jpg", "71Xfe2HPwjL.jpg", "71SvY90BUwL.jpg", "71-yYvnDx-L.jpg", "71ny9E366iL.jpg", "81l6rbsz+tL.jpg", "71QPyCGA7VL.jpg", "81zb4GiOdEL.jpg", "C1VI+nnoTDS._SL1600_.jpg", "61ZnY8h8IaL.jpg", "71PhcJN673L.jpg", "71WKNiOGiaL._SL1600_.jpg", "71pJWaV1RlL.jpg"]}, "Negative": ["71Da3p1FG5L.jpg", "A1IwiLyY5qL._SL1600_.jpg", "71D+ycAnFlL.jpg", "81locTJuehL._SL1600_.jpg", "8183NPzNn1L.jpg", "61NfT0voSZL.jpg", "71QFkgFME4L.jpg", "71hF8yz0mDL.jpg", "71ZCmWZX5+L.jpg", "71lsE5L2nzL.jpg", "61THJ1UbZIL.jpg", "71Q8-6l-gIL.jpg", "71oUKkQXWyL.jpg", "C13I4qj5RfS._SL1600_.jpg", "81B6LmeX+cL._SL1600_.jpg", "71VuoC+uu1L.jpg", "71n0nrT8uWL._SL1600_.jpg", "61APrjxNrdL._SL1600_.jpg", "71MgKn5uWsL.jpg", "71SNtmdRpyL._SL1600_.jpg", "71f9fvKZaOL.jpg", "61T2oPNyfJL._SL1600_.jpg", "81tdrUKoJyL.jpg", "81G8fpRHbeL.jpg", "61wkfs-0-9L._SL1600_.jpg", "71ZmYplenYL.jpg", "71Pm2n0cZ5L.jpg", "71hKcipyH9L.jpg", "71DjMDypBJL.jpg", "71ZGc4ZdfCL.jpg", "71I4DVgxd-L.jpg", "71dhy6KxS+L.jpg", "B078MPFN55-0.jpg", "B078MPFN55-1.jpg", "B078MPFN55-2.jpg", "B078MPFN55-3.jpg", "B078MPFN55-4.jpg"]}, "B01LYCLS24": {"Positive": {"Ref": ["61n8Mas1psL.jpg", "61GIvotUrzL._SL1600_.jpg", "71JdRA6Sy5L.jpg", "71PrINDzSxL.jpg"], "Eval": ["81Ec4HyCm1L.jpg", "71qZe+oow0L.jpg", "71sEea3ht8L.jpg", "71Q8-6l-gIL.jpg", "716Um7uq7uL._SL1600_.jpg", "71AoNa6dIRL.jpg", "610R1X3knNL.jpg", "71yBmzXNHSL.jpg", "71t2lWAaiSL.jpg", "81Y8fXUw4qL.jpg", "71E7TH0uvdL.jpg"]}, "Negative": ["8183NPzNn1L.jpg", "71hF8yz0mDL.jpg", "61NfT0voSZL.jpg", "71vEr57CsxL._SL1600_.jpg", "81tdrUKoJyL.jpg", "81G8fpRHbeL.jpg", "71SJG9BtJgL.jpg", "B1WE1+pBxDS._SL1600_.jpg", "71IUauzBzRL.jpg", "71SCsajqvzL.jpg", "71VuoC+uu1L.jpg", "B1odqy8-hQS._SL1600_.jpg", "C13I4qj5RfS._SL1600_.jpg", "71SvY90BUwL.jpg", "61wkfs-0-9L._SL1600_.jpg", "71Paeb66hHL._SL1600_.jpg", "71hoGPHryjL.jpg", "71NxGOCD2SL.jpg", "81LOoY5ebTL._SL1600_.jpg", "71iY04ZyHBL.jpg", "71MN9WKpJdL.jpg", "71WmorIXd9L.jpg", "71p86hlnQpL.jpg", "71OBRy8RjoL.jpg", "81QID9xFnXL._SL1600_.jpg", "B01LYCLS24-0.jpg", "B01LYCLS24-1.jpg", "B01LYCLS24-2.jpg", "B01LYCLS24-3.jpg", "B01LYCLS24-4.jpg"]}, "B00XBRYFVY": {"Positive": {"Ref": ["71kwYVNQK0L.jpg", "718n8QMTEpL.jpg", "61R9SlbKpOL._SL1600_.jpg", "61R8ajWRgUL._SL1600_.jpg"], "Eval": ["71tGUYI7xdL.jpg", "714QNpOKYWL.jpg", "719ScWcmUAL.jpg", "71dhy6KxS+L.jpg", "61UUut4awxL.jpg", "610nx7voqxL._SL1600_.jpg", "71ybC4OfkQL._SL1600_.jpg", "71bovshvqHL.jpg", "61JrBQfvTRL.jpg", "71xkCXNAugL.jpg", "71I4DVgxd-L.jpg"]}, "Negative": ["71SJG9BtJgL.jpg", "71hF8yz0mDL.jpg", "71j0yOAKEwL.jpg", "71DjMDypBJL.jpg", "71WmorIXd9L.jpg", "61T2oPNyfJL._SL1600_.jpg", "71MgKn5uWsL.jpg", "71SCsajqvzL.jpg", "712hqo2jsiL.jpg", "71f9fvKZaOL.jpg", "71Paeb66hHL._SL1600_.jpg", "71NxGOCD2SL.jpg", "71AoNa6dIRL.jpg", "71On95kuCqL.jpg", "71hoGPHryjL.jpg", "71Da3p1FG5L.jpg", "71VuoC+uu1L.jpg", "71BHSrBr5UL.jpg", "710L7wU2a-L._SL1600_.jpg", "714nKYACMBL.jpg", "71n3Qtk1YrL.jpg", "61DbxRrF2RL.jpg", "71aoC+Lee7L.jpg", "71GH1IJV56L.jpg", "71eX+qry0ML.jpg", "B00XBRYFVY-0.jpg", "B00XBRYFVY-1.jpg", "B00XBRYFVY-2.jpg", "B00XBRYFVY-3.jpg", "B00XBRYFVY-4.jpg"]}, "B008LX6OC6": {"Positive": {"Ref": ["81tdrUKoJyL.jpg", "71l9MzF+lSL._SL1600_.jpg", "71SsRo21zDL.jpg", "719Y3G+Y3SL.jpg", "712hqo2jsiL.jpg"], "Eval": ["71ZGc4ZdfCL.jpg", "71L2MocqXRL.jpg", "81eOSTbHB-L.jpg", "81G8fpRHbeL.jpg", "714ubkFlx-L.jpg", "71Tf8Yon-lL.jpg", "71hKcipyH9L.jpg", "71TthjCpc1L._SL1600_.jpg", "71MgKn5uWsL.jpg"]}, "Negative": ["71SCsajqvzL.jpg", "71CNRlbc4cL.jpg", "61T2oPNyfJL._SL1600_.jpg", "71j0yOAKEwL.jpg", "71SJG9BtJgL.jpg", "71I4DVgxd-L.jpg", "71lsE5L2nzL.jpg", "71dhy6KxS+L.jpg", "610R1X3knNL.jpg", "71IUauzBzRL.jpg", "71f9fvKZaOL.jpg", "8183NPzNn1L.jpg", "71hF8yz0mDL.jpg", "71oUKkQXWyL.jpg", "71VuoC+uu1L.jpg", "61L6qo2S+TL.jpg", "71Sh4Tgo6ML.jpg", "71BHSrBr5UL.jpg", "71Q8-6l-gIL.jpg", "71QFkgFME4L.jpg", "71qZe+oow0L.jpg", "B1WE1+pBxDS._SL1600_.jpg", "61UUut4awxL.jpg", "71WmorIXd9L.jpg", "71xkCXNAugL.jpg", "B008LX6OC6-0.jpg", "B008LX6OC6-1.jpg", "B008LX6OC6-2.jpg", "B008LX6OC6-3.jpg", "B008LX6OC6-4.jpg"]}, "B072KNGV1K": {"Positive": {"Ref": ["71hF8yz0mDL.jpg", "71TB-qIrEuL._SL1600_.jpg", "71SNtmdRpyL._SL1600_.jpg"], "Eval": ["71vEr57CsxL._SL1600_.jpg", "913QanmFGAL._SL1600_.jpg", "61mnPKHWKfL._SL1600_.jpg", "71kLAp5lk7L.jpg", "71jTJtUh1bL._SL1600_.jpg", "711qTHTy9QL.jpg", "61b1K-cJqrL._SL1600_.jpg", "71yfYr9pWgL._SL1600_.jpg", "71JRZ04FURL._SL1600_.jpg"]}, "Negative": ["71Q8-6l-gIL.jpg", "81eloC+0nsL._SL1600_.jpg", "A1OYHDW47iL._SL1600_.jpg", "6122LigciUL._SL1600_.jpg", "71QFkgFME4L.jpg", "710L-r3WJiL._SL1600_.jpg", "71us--TO5ZL.jpg", "71n0nrT8uWL._SL1600_.jpg", "71QMIdCTHAL.jpg", "71oUKkQXWyL.jpg", "81B6LmeX+cL._SL1600_.jpg", "71Pm2n0cZ5L.jpg", "B072KNGV1K-0.jpg", "B072KNGV1K-1.jpg", "B072KNGV1K-2.jpg", "B072KNGV1K-3.jpg", "B072KNGV1K-4.jpg"]}, "B017UDLP1M": {"Positive": {"Ref": ["71Pm2n0cZ5L.jpg", "71IxROp2zrL.jpg", "518M8c+vVnL._SL1600_.jpg", "71iY04ZyHBL.jpg"], "Eval": ["718xW52yb7L.jpg", "71OBRy8RjoL.jpg", "71iX6XgA2SL.jpg", "71+KIkJIn8L.jpg", "71PrZYQRS1L.jpg", "71NxGOCD2SL.jpg"]}, "Negative": ["71PrINDzSxL.jpg", "71n3Qtk1YrL.jpg", "71MYkRVX8qL.jpg", "71pBEZ-0Q3L.jpg", "71SJG9BtJgL.jpg", "71dhy6KxS+L.jpg", "71hKcipyH9L.jpg", "61UUut4awxL.jpg", "81LOoY5ebTL._SL1600_.jpg", "716Jhpf1K8L.jpg", "7150Cr8yhoL._SL1600_.jpg", "61T2oPNyfJL._SL1600_.jpg", "B017UDLP1M-0.jpg", "B017UDLP1M-1.jpg", "B017UDLP1M-2.jpg", "B017UDLP1M-3.jpg", "B017UDLP1M-4.jpg"]}, "B01LX21ISP": {"Positive": {"Ref": ["61jPE402WZL.jpg", "71ZCmWZX5+L.jpg", "61g8p2ESRDL.jpg"], "Eval": ["71DjMDypBJL.jpg", "A1IwiLyY5qL._SL1600_.jpg", "81O+rqcT0wL.jpg", "71oUKkQXWyL.jpg"]}, "Negative": ["71WKNiOGiaL._SL1600_.jpg", "81locTJuehL._SL1600_.jpg", "71f9fvKZaOL.jpg", "81B6LmeX+cL._SL1600_.jpg", "61ZnY8h8IaL.jpg", "81xwwGn8B7L.jpg", "71Sh4Tgo6ML.jpg", "71pJWaV1RlL.jpg", "71ny9E366iL.jpg", "71SvY90BUwL.jpg", "71QPyCGA7VL.jpg", "71n0nrT8uWL._SL1600_.jpg", "B01LX21ISP-0.jpg", "B01LX21ISP-1.jpg", "B01LX21ISP-2.jpg", "B01LX21ISP-3.jpg", "B01LX21ISP-4.jpg"]}, "eureka airspeed vacuum": {"Positive": {"Ref": ["a01ac32b.jpeg", "cac681f9.jpeg", "b1ff6de4.jpeg"], "Eval": ["7a73ee14.jpeg", "b6c7a6de.jpeg", "cf5e4657.jpeg", "0bef72a2.jpeg", "232ca28c.jpeg", "165622e6.jpeg", "d4d725cd.jpeg", "dbc8f0e4.jpeg", "cadb758d.jpeg", "8dd07b46.jpeg", "851963f3.jpeg", "c43ddf6b.jpeg", "c256b60c.jpeg", "f1fdbf33.jpeg", "b7d95407.jpeg", "6272db7a.jpeg", "06233743.jpeg"]}, "Negative": ["ba7b7389.jpeg", "6a9fb801.jpeg", "8e3ccfdb.jpeg", "d5a1305b.jpeg", "a4ce46b3.jpeg", "779519f9.jpeg", "275378b3.jpeg", "45342988.jpeg", "dc152e20.jpeg", "0fe1a550.jpeg", "e4f4b8ee.jpeg", "e309f369.jpeg", "7b42150c.jpeg", "be3974f2.jpeg", "59387e6c.jpeg", "14c31da1.jpeg", "16704cbc.jpeg", "817ccc8d.jpeg", "44612359.jpeg", "ffce3c42.jpeg", "58571518.jpeg", "b3b3ab6c.jpeg", "c0530c5c.jpeg", "680b59b2.jpeg", "c0b22371.jpeg", "c79e9c41.jpeg", "207f4b71.jpeg", "69e0d606.jpeg", "835993cd.jpeg", "213ee5b0.jpeg", "e143abe9.jpeg", "3100a090.jpeg", "31ebaa33.jpeg", "c3e1415c.jpeg", "1aba644b.jpeg", "03c7a325.jpeg", "0403457b.jpeg", "da4a02d7.jpeg", "3e0e22c3.jpeg", "9ef3e0ea.jpeg", "6fe9a235.jpeg", "affae07e.jpeg", "98bf70ac.jpeg", "a1e9deae.jpeg", "d7e733da.jpeg", "cabc56f6.jpeg", "867b66cf.jpeg", "15afdfb1.jpeg", "62aa8446.jpeg", "7a63068c.jpeg", "f00f360c.jpeg", "c74520e4.jpeg", "28910d04.jpeg", "13c60a59.jpeg", "70f989d0.jpeg", "f2dc6b51.jpeg", "c0590d5a.jpeg", "82d78a5c.jpeg", "65dd1ebf.jpeg", "66a39eaf.jpeg", "680ab95b.jpeg", "09a77728.jpeg", "3eedfc52.jpeg", "70fdf5df.jpeg", "d19eec0c.jpeg", "780bff5c.jpeg", "e8b849e9.jpeg", "123bedcd.jpeg", "be36cc64.jpeg", "ecbd233a.jpeg", "5b906e5f.jpeg", "86aec94d.jpeg", "81d308aa.jpeg", "63a33d3c.jpeg", "6a795607.jpeg", "a0a2160e.jpeg", "59299d48.jpeg", "83b7d9ee.jpeg", "1a126fa5.jpeg", "85b0d50c.jpeg", "73cba819.jpeg", "85f2719b.jpeg", "75631220.jpeg", "79c8ff10.jpeg", "95d4cad8.jpeg", "4bd26e59.jpeg", "35766284.jpeg", "f68273a4.jpeg", "d993cd48.jpeg", "93810ed0.jpeg", "369047fd.jpeg", "04e1e572.jpeg", "ba45ee59.jpeg", "3b793ec3.jpeg", "040cd5e3.jpeg", "2f221daf.jpeg", "c5be3798.jpeg", "e4b92832.jpeg", "d80af44a.jpeg", "38a968fc.jpeg", "cde6ddc3.jpeg", "47c62467.jpeg", "7649722a.jpeg", "5ee08c53.jpeg", "2c6154b3.jpeg", "d6ae44bd.jpeg", "66cc662b.jpeg", "ac1d9a44.jpeg", "3ae91e55.jpeg", "98d5a389.jpeg", "a6ca29f7.jpeg", "cfcdd2ca.jpeg", "3dca87a9.jpeg", "c1118f88.jpeg", "e8c5c971.jpeg", "e0c2dc45.jpeg", "f8781465.jpeg", "0b10253b.jpeg", "9d44756b.jpeg", "487b056a.jpeg", "866d07c0.jpeg", "af43acb3.jpeg", "2062c659.jpeg", "80bcbc5f.jpeg", "1e6437f0.jpeg", "61605b47.jpeg", "09fe83fe.jpeg", "cf9e0a7d.jpeg", "b11ac97c.jpeg", "f4046cbe.jpeg", "03d70958.jpeg", "ceee13b7.jpeg", "5264f4df.jpeg", "3790299b.jpeg", "2b777bde.jpeg", "60ecedaa.jpeg", "2213abfc.jpeg", "9df8be8e.jpeg", "898f9fe5.jpeg", "0bc6e279.jpeg", "b6bde988.jpeg", "19cccc2a.jpeg", "23a5da53.jpeg", "0076abf3.jpeg", "3c1f2b0b.jpeg", "a866d7c2.jpeg", "9b515de2.jpeg", "1fd64531.jpeg", "083e6534.jpeg", "0ccdb431.jpeg", "c92221e5.jpeg", "cc85529f.jpeg", "763dd184.jpeg", "daca83b8.jpeg", "2cc4f45e.jpeg", "7c1f8b74.jpeg", "58519d08.jpeg", "9996846e.jpeg", "a36888fd.jpeg", "dea1899b.jpeg", "d0ac761b.jpeg", "b6383257.jpeg", "4bed4a7a.jpeg", "c1acbe7b.jpeg", "7549bec2.jpeg", "515b7f34.jpeg", "9b764e28.jpeg", "21636f7c.jpeg", "46b74dec.jpeg", "6cf306f7.jpeg", "c8dd9148.jpeg", "85a7d139.jpeg", "7789227c.jpeg", "41553f82.jpeg", "0e5d896e.jpeg", "2cb5ef43.jpeg", "dce88fca.jpeg", "e54515a4.jpeg", "dff10fa6.jpeg", "9be9565f.jpeg", "03ba29ab.jpeg", "78b1c24c.jpeg", "a6ab6326.jpeg", "1515951f.jpeg", "ba63405f.jpeg", "8199b123.jpeg", "47ec683a.jpeg", "3ddce64d.jpeg", "e7cc1c92.jpeg", "1453f555.jpeg", "14f6a557.jpeg", "1eb50fff.jpeg", "cda71cc9.jpeg", "bc014c1a.jpeg", "fa756b1d.jpeg", "87d7ed0d.jpeg", "24ca2dce.jpeg", "4babf0cc.jpeg", "1608e24e.jpeg", "556640c5.jpeg", "3339c336.jpeg", "13487eef.jpeg", "38dff3b1.jpeg", "8eeacc65.jpeg", "199547bc.jpeg", "644075ac.jpeg", "1f9f7350.jpeg", "1983a6db.jpeg", "4f0e80a9.jpeg", "62b50954.jpeg", "46064c21.jpeg", "8b286278.jpeg", "fd2bac15.jpeg", "7ecc26e0.jpeg", "c4fc34f9.jpeg", "036f30c5.jpeg", "b88c7400.jpeg", "605d82dc.jpeg", "c7019388.jpeg", "7f5e2e2a.jpeg", "ddf66705.jpeg", "8c304a32.jpeg", "4f7f69c8.jpeg", "e7bb62bf.jpeg", "79bdccd6.jpeg", "2fd0d359.jpeg", "c7df0f6f.jpeg", "b79cc374.jpeg", "ef1da31c.jpeg", "57bba998.jpeg", "844fbee5.jpeg", "17e6379c.jpeg", "8704ca8a.jpeg", "8ac08b89.jpeg", "cad29d63.jpeg", "aec918ea.jpeg", "2f2cb000.jpeg", "ec9c3980.jpeg", "05c2e3a0.jpeg", "494ac5cc.jpeg", "efb55880.jpeg", "e8db0e28.jpeg", "f48e39b7.jpeg", "7692b0ef.jpeg", "7570441e.jpeg", "e754e92e.jpeg", "e4631ae5.jpeg", "e2792b1c.jpeg", "bc91e604.jpeg", "3e248013.jpeg", "1bd7f622.jpeg", "8ef5df49.jpeg", "a1e0ebbb.jpeg", "afb96c56.jpeg", "4f614749.jpeg", "a37982f4.jpeg", "4adedbec.jpeg", "494f6e7d.jpeg", "8d3d39c4.jpeg", "fa25e703.jpeg", "7b189ef2.jpeg", "f832af26.jpeg", "202195de.jpeg", "a989ca53.jpeg"]}, "B06Y56NDF4": {"Positive": {"Ref": ["C1gO-f38ZbS._SL1600_.jpg", "71NTZnYF7fL._SL1600_.jpg", "61qOYgZ770L._SL1600_.jpg"], "Eval": ["71mZpqmdW7L.jpg", "71Paeb66hHL._SL1600_.jpg", "61qaraM6OrL._SL1600_.jpg", "61NfT0voSZL.jpg", "71D8RAaWUhL.jpg", "71Jopc7ej7L.jpg", "81vGn2Ky+YL._SL1600_.jpg", "71Z509ZMb-L._SL1600_.jpg", "61Glyqmg3JL.jpg", "710L-r3WJiL._SL1600_.jpg", "71MN9WKpJdL.jpg", "7150Cr8yhoL._SL1600_.jpg", "A1OYHDW47iL._SL1600_.jpg", "81VetJd9gWL._SL1600_.jpg", "71QFkgFME4L.jpg", "611EIbdQE4L._SL1600_.jpg", "71QMIdCTHAL.jpg", "71Kh1EMSYcL.jpg", "81e1svW1pML._SL1600_.jpg", "71BHSrBr5UL.jpg"]}, "Negative": ["71Q8-6l-gIL.jpg", "61mnPKHWKfL._SL1600_.jpg", "71lsE5L2nzL.jpg", "71cPOA7goBL.jpg", "71L2MocqXRL.jpg", "81G8fpRHbeL.jpg", "81locTJuehL._SL1600_.jpg", "71Pm2n0cZ5L.jpg", "71hKcipyH9L.jpg", "61ZnY8h8IaL.jpg", "71SJG9BtJgL.jpg", "71VuoC+uu1L.jpg", "D1BGKUvs--S._SL1600_.jpg", "71dhy6KxS+L.jpg", "71hF8yz0mDL.jpg", "61BbGVxikhL._SL1600_.jpg", "61T2oPNyfJL._SL1600_.jpg", "71FPt4tp1GL.jpg", "81xwwGn8B7L.jpg", "71sEea3ht8L.jpg", "61wkfs-0-9L._SL1600_.jpg", "71f9fvKZaOL.jpg", "71SCsajqvzL.jpg", "61n8Mas1psL.jpg", "71WmorIXd9L.jpg", "715Vbj05XGL.jpg", "8183NPzNn1L.jpg", "C13I4qj5RfS._SL1600_.jpg", "71OqZhlVD4L.jpg", "D1gwEfgeBgS._SL1600_.jpg", "B1odqy8-hQS._SL1600_.jpg", "81B6LmeX+cL._SL1600_.jpg", "61APrjxNrdL._SL1600_.jpg", "71b3HVD1xvL._SL1600_.jpg", "81tdrUKoJyL.jpg", "71SNtmdRpyL._SL1600_.jpg", "6122LigciUL._SL1600_.jpg", "61b1K-cJqrL._SL1600_.jpg", "71IUauzBzRL.jpg", "71vEr57CsxL._SL1600_.jpg", "B1WE1+pBxDS._SL1600_.jpg", "61gb66I0wHL.jpg", "B06Y56NDF4-0.jpg", "B06Y56NDF4-1.jpg", "B06Y56NDF4-2.jpg", "B06Y56NDF4-3.jpg", "B06Y56NDF4-4.jpg"]}, "B01N9P4NH5": {"Positive": {"Ref": ["71cPOA7goBL.jpg", "716-NJ11KUL.jpg", "71On95kuCqL.jpg", "71us--TO5ZL.jpg"], "Eval": ["71WmorIXd9L.jpg", "71VPENOx+-L.jpg", "71n3Qtk1YrL.jpg", "617zO7Ds0DL._SL1600_.jpg", "D1BGKUvs--S._SL1600_.jpg", "71kOoU9S1ML.jpg"]}, "Negative": ["71QFkgFME4L.jpg", "71SNtmdRpyL._SL1600_.jpg", "81B6LmeX+cL._SL1600_.jpg", "61APrjxNrdL._SL1600_.jpg", "71MN9WKpJdL.jpg", "71SCsajqvzL.jpg", "71Q8-6l-gIL.jpg", "71AoNa6dIRL.jpg", "71SJG9BtJgL.jpg", "71Tf8Yon-lL.jpg", "A1OYHDW47iL._SL1600_.jpg", "71BHSrBr5UL.jpg", "B01N9P4NH5-0.jpg", "B01N9P4NH5-1.jpg", "B01N9P4NH5-2.jpg", "B01N9P4NH5-3.jpg", "B01N9P4NH5-4.jpg"]}, "B01DZWX5II": {"Positive": {"Ref": ["71w55FBad5L.jpg", "31skXClXD2L._SL1600_.jpg", "71K2rjv2eIL._SL1600_.jpg", "81tazhq3IcL.jpg", "71ZmYplenYL.jpg"], "Eval": ["61nTRWXUfzL.jpg", "61sT5VcAOyL._SL1600_.jpg", "71IYxTYhMML.jpg", "71D+ycAnFlL.jpg", "710L7wU2a-L._SL1600_.jpg", "71F-PSgs25L.jpg", "71Da3p1FG5L.jpg", "61009BBKWJL._SL1600_.jpg"]}, "Negative": ["D1gwEfgeBgS._SL1600_.jpg", "71Pm2n0cZ5L.jpg", "71VuoC+uu1L.jpg", "81locTJuehL._SL1600_.jpg", "61APrjxNrdL._SL1600_.jpg", "61ZnY8h8IaL.jpg", "71b3HVD1xvL._SL1600_.jpg", "71SvY90BUwL.jpg", "71f9fvKZaOL.jpg", "71n0nrT8uWL._SL1600_.jpg", "61wkfs-0-9L._SL1600_.jpg", "71E7TH0uvdL.jpg", "610nx7voqxL._SL1600_.jpg", "81LOoY5ebTL._SL1600_.jpg", "71CvHNyPPKL.jpg", "71AoNa6dIRL.jpg", "712OxNi0eeL.jpg", "71Paeb66hHL._SL1600_.jpg", "71j0yOAKEwL.jpg", "71Sh4Tgo6ML.jpg", "81B6LmeX+cL._SL1600_.jpg", "71VhTexcX3L.jpg", "712997Ok0RL.jpg", "71SJG9BtJgL.jpg", "B01DZWX5II-0.jpg", "B01DZWX5II-1.jpg", "B01DZWX5II-2.jpg", "B01DZWX5II-3.jpg", "B01DZWX5II-4.jpg"]}, "B079QYYGF1": {"Positive": {"Ref": ["71MYkRVX8qL.jpg", "71d3PGLSxVL.jpg", "71CvHNyPPKL.jpg", "61OQcqXPX2L.jpg", "517A4nm394L._SL1600_.jpg"], "Eval": ["61APrjxNrdL._SL1600_.jpg", "61Z28S5AhKL._SL1600_.jpg", "61BbGVxikhL._SL1600_.jpg", "81EDisF0MCL._SL1600_.jpg", "B1odqy8-hQS._SL1600_.jpg", "71SJG9BtJgL.jpg", "91-+YkoWn2L._SL1600_.jpg", "81QID9xFnXL._SL1600_.jpg", "B1WE1+pBxDS._SL1600_.jpg", "81eloC+0nsL._SL1600_.jpg", "A1GIjst7UKL._SL1600_.jpg", "81M7NRfr75L._SL1600_.jpg", "61wkfs-0-9L._SL1600_.jpg", "71IUauzBzRL.jpg", "81B6LmeX+cL._SL1600_.jpg", "31teq9RgoWL._SL1600_.jpg", "71OqZhlVD4L.jpg", "718xxRrAowL._SL1600_.jpg"]}, "Negative": ["71t2lWAaiSL.jpg", "71E7TH0uvdL.jpg", "A1OYHDW47iL._SL1600_.jpg", "71Q8-6l-gIL.jpg", "71hF8yz0mDL.jpg", "71WmorIXd9L.jpg", "714ubkFlx-L.jpg", "710L-r3WJiL._SL1600_.jpg", "71PrINDzSxL.jpg", "71cPOA7goBL.jpg", "71wal+6d9JL._SL1600_.jpg", "71yfYr9pWgL._SL1600_.jpg", "715Vbj05XGL.jpg", "61NfT0voSZL.jpg", "8183NPzNn1L.jpg", "71MN9WKpJdL.jpg", "71kLAp5lk7L.jpg", "71D+ycAnFlL.jpg", "71ZmYplenYL.jpg", "D1gwEfgeBgS._SL1600_.jpg", "71f9fvKZaOL.jpg", "C1gO-f38ZbS._SL1600_.jpg", "71BHSrBr5UL.jpg", "81locTJuehL._SL1600_.jpg", "61gb66I0wHL.jpg", "6122LigciUL._SL1600_.jpg", "71lsE5L2nzL.jpg", "71qZe+oow0L.jpg", "B079QYYGF1-0.jpg", "B079QYYGF1-1.jpg", "B079QYYGF1-2.jpg", "B079QYYGF1-3.jpg", "B079QYYGF1-4.jpg"]}, "B07FX7394L": {"Positive": {"Ref": ["81LOoY5ebTL._SL1600_.jpg", "71j0yOAKEwL.jpg", "71oDv+Yx0IL.jpg"], "Eval": ["71f9fvKZaOL.jpg", "71p86hlnQpL.jpg", "61yuJxR+n5L.jpg", "715ifumuq7L.jpg", "8183NPzNn1L.jpg", "61G43tLuT4L.jpg"]}, "Negative": ["71lsE5L2nzL.jpg", "B1WE1+pBxDS._SL1600_.jpg", "71SJG9BtJgL.jpg", "71SCsajqvzL.jpg", "714ubkFlx-L.jpg", "71Da3p1FG5L.jpg", "71VuoC+uu1L.jpg", "81locTJuehL._SL1600_.jpg", "71BHSrBr5UL.jpg", "81G8fpRHbeL.jpg", "81tdrUKoJyL.jpg", "71b3HVD1xvL._SL1600_.jpg", "71L2MocqXRL.jpg", "71w55FBad5L.jpg", "610R1X3knNL.jpg", "71MgKn5uWsL.jpg", "71xkCXNAugL.jpg", "71IUauzBzRL.jpg", "B07FX7394L-0.jpg", "B07FX7394L-1.jpg", "B07FX7394L-2.jpg", "B07FX7394L-3.jpg", "B07FX7394L-4.jpg"]}}
+{
+  "eureka stick vacuum": {
+    "Positive": {
+      "Ref": [
+        "01efba24.jpeg",
+        "47bf35ff.jpeg",
+        "54000ea0.jpeg"
+      ],
+      "Eval": [
+        "c9b1077b.jpeg",
+        "5ad7663d.jpeg",
+        "03c318d0.jpeg",
+        "e2f18298.jpeg",
+        "0d6c0dff.jpeg"
+      ]
+    },
+    "Negative": [
+      "a23a8d10.jpeg",
+      "3064516d.jpeg",
+      "05cb9265.jpeg",
+      "b28366b9.jpeg",
+      "7368f1a3.jpeg"
+    ]
+  },
+  "B07313S199": {
+    "Positive": {
+      "Ref": [
+        "71n0nrT8uWL._SL1600_.jpg",
+        "71VuoC+uu1L.jpg",
+        "61L6qo2S+TL.jpg"
+      ],
+      "Eval": [
+        "C13I4qj5RfS._SL1600_.jpg",
+        "6122LigciUL._SL1600_.jpg",
+        "81locTJuehL._SL1600_.jpg",
+        "710bofu7J+L._SL1600_.jpg",
+        "715Vbj05XGL.jpg"
+      ]
+    },
+    "Negative": [
+      "71MgKn5uWsL.jpg",
+      "61ZnY8h8IaL.jpg",
+      "61mnPKHWKfL._SL1600_.jpg",
+      "71FPt4tp1GL.jpg",
+      "711qTHTy9QL.jpg",
+      "51gBvh-51-L._SL1600_.jpg",
+      "B07313S199-0.jpg",
+      "B07313S199-2.jpg"
+    ]
+  },
+  "B078MPFN55": {
+    "Positive": {
+      "Ref": [
+        "71b3HVD1xvL._SL1600_.jpg",
+        "71Sh4Tgo6ML.jpg",
+        "712997Ok0RL.jpg",
+        "71wal+6d9JL._SL1600_.jpg"
+      ],
+      "Eval": [
+        "712OxNi0eeL.jpg",
+        "716Jhpf1K8L.jpg",
+        "51gBvh-51-L._SL1600_.jpg",
+        "81xwwGn8B7L.jpg",
+        "71SCsajqvzL.jpg",
+        "71Xfe2HPwjL.jpg",
+        "81zb4GiOdEL.jpg",
+        "61ZnY8h8IaL.jpg"
+      ]
+    },
+    "Negative": [
+      "A1IwiLyY5qL._SL1600_.jpg",
+      "71D+ycAnFlL.jpg",
+      "81locTJuehL._SL1600_.jpg",
+      "8183NPzNn1L.jpg",
+      "61NfT0voSZL.jpg",
+      "61THJ1UbZIL.jpg",
+      "71Q8-6l-gIL.jpg",
+      "71oUKkQXWyL.jpg",
+      "C13I4qj5RfS._SL1600_.jpg",
+      "81B6LmeX+cL._SL1600_.jpg",
+      "61APrjxNrdL._SL1600_.jpg",
+      "71MgKn5uWsL.jpg",
+      "71f9fvKZaOL.jpg",
+      "61T2oPNyfJL._SL1600_.jpg",
+      "81tdrUKoJyL.jpg",
+      "81G8fpRHbeL.jpg",
+      "61wkfs-0-9L._SL1600_.jpg",
+      "71ZmYplenYL.jpg",
+      "71Pm2n0cZ5L.jpg",
+      "71hKcipyH9L.jpg",
+      "71DjMDypBJL.jpg",
+      "71ZGc4ZdfCL.jpg"
+    ]
+  },
+  "B01LYCLS24": {
+    "Positive": {
+      "Ref": [
+        "61n8Mas1psL.jpg",
+        "61GIvotUrzL._SL1600_.jpg",
+        "71JdRA6Sy5L.jpg",
+        "71PrINDzSxL.jpg"
+      ],
+      "Eval": [
+        "71Q8-6l-gIL.jpg",
+        "716Um7uq7uL._SL1600_.jpg",
+        "71AoNa6dIRL.jpg",
+        "610R1X3knNL.jpg",
+        "71t2lWAaiSL.jpg",
+        "81Y8fXUw4qL.jpg",
+        "71E7TH0uvdL.jpg"
+      ]
+    },
+    "Negative": [
+      "8183NPzNn1L.jpg",
+      "61NfT0voSZL.jpg",
+      "71vEr57CsxL._SL1600_.jpg",
+      "81tdrUKoJyL.jpg",
+      "81G8fpRHbeL.jpg",
+      "71IUauzBzRL.jpg",
+      "71SCsajqvzL.jpg",
+      "C13I4qj5RfS._SL1600_.jpg",
+      "61wkfs-0-9L._SL1600_.jpg",
+      "71NxGOCD2SL.jpg",
+      "71MN9WKpJdL.jpg",
+      "71WmorIXd9L.jpg",
+      "71p86hlnQpL.jpg",
+      "71OBRy8RjoL.jpg",
+      "B01LYCLS24-2.jpg"
+    ]
+  },
+  "B00XBRYFVY": {
+    "Positive": {
+      "Ref": [
+        "71kwYVNQK0L.jpg",
+        "718n8QMTEpL.jpg",
+        "61R9SlbKpOL._SL1600_.jpg",
+        "61R8ajWRgUL._SL1600_.jpg"
+      ],
+      "Eval": [
+        "61UUut4awxL.jpg",
+        "610nx7voqxL._SL1600_.jpg",
+        "71ybC4OfkQL._SL1600_.jpg",
+        "71bovshvqHL.jpg",
+        "61JrBQfvTRL.jpg",
+        "71xkCXNAugL.jpg"
+      ]
+    },
+    "Negative": [
+      "71j0yOAKEwL.jpg",
+      "71DjMDypBJL.jpg",
+      "71WmorIXd9L.jpg",
+      "61T2oPNyfJL._SL1600_.jpg",
+      "71MgKn5uWsL.jpg",
+      "71SCsajqvzL.jpg",
+      "71f9fvKZaOL.jpg",
+      "71NxGOCD2SL.jpg",
+      "71AoNa6dIRL.jpg",
+      "71BHSrBr5UL.jpg",
+      "710L7wU2a-L._SL1600_.jpg",
+      "71n3Qtk1YrL.jpg",
+      "71GH1IJV56L.jpg",
+      "B00XBRYFVY-0.jpg"
+    ]
+  },
+  "B008LX6OC6": {
+    "Positive": {
+      "Ref": [
+        "81tdrUKoJyL.jpg",
+        "71l9MzF+lSL._SL1600_.jpg",
+        "71SsRo21zDL.jpg",
+        "719Y3G+Y3SL.jpg",
+        "712hqo2jsiL.jpg"
+      ],
+      "Eval": [
+        "71ZGc4ZdfCL.jpg",
+        "81G8fpRHbeL.jpg",
+        "71Tf8Yon-lL.jpg",
+        "71hKcipyH9L.jpg",
+        "71TthjCpc1L._SL1600_.jpg",
+        "71MgKn5uWsL.jpg"
+      ]
+    },
+    "Negative": [
+      "71SCsajqvzL.jpg",
+      "61T2oPNyfJL._SL1600_.jpg",
+      "71j0yOAKEwL.jpg",
+      "610R1X3knNL.jpg",
+      "71IUauzBzRL.jpg",
+      "71f9fvKZaOL.jpg",
+      "8183NPzNn1L.jpg",
+      "71oUKkQXWyL.jpg",
+      "71BHSrBr5UL.jpg",
+      "71Q8-6l-gIL.jpg",
+      "61UUut4awxL.jpg",
+      "71WmorIXd9L.jpg",
+      "71xkCXNAugL.jpg",
+      "B008LX6OC6-1.jpg",
+      "B008LX6OC6-3.jpg"
+    ]
+  },
+  "B072KNGV1K": {
+    "Positive": {
+      "Ref": [
+        "71hF8yz0mDL.jpg",
+        "71TB-qIrEuL._SL1600_.jpg",
+        "71SNtmdRpyL._SL1600_.jpg"
+      ],
+      "Eval": [
+        "71vEr57CsxL._SL1600_.jpg",
+        "913QanmFGAL._SL1600_.jpg",
+        "61mnPKHWKfL._SL1600_.jpg",
+        "71kLAp5lk7L.jpg",
+        "71jTJtUh1bL._SL1600_.jpg",
+        "711qTHTy9QL.jpg",
+        "71JRZ04FURL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71Q8-6l-gIL.jpg",
+      "81eloC+0nsL._SL1600_.jpg",
+      "6122LigciUL._SL1600_.jpg",
+      "710L-r3WJiL._SL1600_.jpg",
+      "71us--TO5ZL.jpg",
+      "71oUKkQXWyL.jpg",
+      "81B6LmeX+cL._SL1600_.jpg",
+      "71Pm2n0cZ5L.jpg",
+      "B072KNGV1K-1.jpg",
+      "B072KNGV1K-2.jpg"
+    ]
+  },
+  "B017UDLP1M": {
+    "Positive": {
+      "Ref": [
+        "71Pm2n0cZ5L.jpg",
+        "71IxROp2zrL.jpg",
+        "518M8c+vVnL._SL1600_.jpg",
+        "71iY04ZyHBL.jpg"
+      ],
+      "Eval": [
+        "718xW52yb7L.jpg",
+        "71OBRy8RjoL.jpg",
+        "71iX6XgA2SL.jpg",
+        "71PrZYQRS1L.jpg",
+        "71NxGOCD2SL.jpg"
+      ]
+    },
+    "Negative": [
+      "71PrINDzSxL.jpg",
+      "71n3Qtk1YrL.jpg",
+      "71hKcipyH9L.jpg",
+      "61UUut4awxL.jpg",
+      "716Jhpf1K8L.jpg",
+      "7150Cr8yhoL._SL1600_.jpg",
+      "61T2oPNyfJL._SL1600_.jpg",
+      "B017UDLP1M-2.jpg"
+    ]
+  },
+  "B01LX21ISP": {
+    "Positive": {
+      "Ref": [
+        "61jPE402WZL.jpg",
+        "71ZCmWZX5+L.jpg",
+        "61g8p2ESRDL.jpg"
+      ],
+      "Eval": [
+        "71DjMDypBJL.jpg",
+        "A1IwiLyY5qL._SL1600_.jpg",
+        "81O+rqcT0wL.jpg",
+        "71oUKkQXWyL.jpg"
+      ]
+    },
+    "Negative": [
+      "81locTJuehL._SL1600_.jpg",
+      "71f9fvKZaOL.jpg",
+      "81B6LmeX+cL._SL1600_.jpg",
+      "61ZnY8h8IaL.jpg",
+      "81xwwGn8B7L.jpg",
+      "B01LX21ISP-0.jpg",
+      "B01LX21ISP-1.jpg"
+    ]
+  },
+  "eureka airspeed vacuum": {
+    "Positive": {
+      "Ref": [
+        "a01ac32b.jpeg",
+        "cac681f9.jpeg",
+        "b1ff6de4.jpeg"
+      ],
+      "Eval": [
+        "b6c7a6de.jpeg",
+        "cf5e4657.jpeg",
+        "d4d725cd.jpeg",
+        "c43ddf6b.jpeg",
+        "06233743.jpeg"
+      ]
+    },
+    "Negative": [
+      "6fe9a235.jpeg",
+      "040cd5e3.jpeg",
+      "a6ca29f7.jpeg",
+      "8704ca8a.jpeg",
+      "f832af26.jpeg"
+    ]
+  },
+  "B06Y56NDF4": {
+    "Positive": {
+      "Ref": [
+        "C1gO-f38ZbS._SL1600_.jpg",
+        "71NTZnYF7fL._SL1600_.jpg",
+        "61qOYgZ770L._SL1600_.jpg"
+      ],
+      "Eval": [
+        "71mZpqmdW7L.jpg",
+        "61qaraM6OrL._SL1600_.jpg",
+        "61NfT0voSZL.jpg",
+        "71Jopc7ej7L.jpg",
+        "81vGn2Ky+YL._SL1600_.jpg",
+        "710L-r3WJiL._SL1600_.jpg",
+        "71MN9WKpJdL.jpg",
+        "7150Cr8yhoL._SL1600_.jpg",
+        "71BHSrBr5UL.jpg"
+      ]
+    },
+    "Negative": [
+      "71Q8-6l-gIL.jpg",
+      "61mnPKHWKfL._SL1600_.jpg",
+      "81G8fpRHbeL.jpg",
+      "81locTJuehL._SL1600_.jpg",
+      "71Pm2n0cZ5L.jpg",
+      "71hKcipyH9L.jpg",
+      "61ZnY8h8IaL.jpg",
+      "D1BGKUvs--S._SL1600_.jpg",
+      "61T2oPNyfJL._SL1600_.jpg",
+      "71FPt4tp1GL.jpg",
+      "81xwwGn8B7L.jpg",
+      "61wkfs-0-9L._SL1600_.jpg",
+      "71f9fvKZaOL.jpg",
+      "71SCsajqvzL.jpg",
+      "71WmorIXd9L.jpg",
+      "715Vbj05XGL.jpg",
+      "8183NPzNn1L.jpg",
+      "C13I4qj5RfS._SL1600_.jpg",
+      "71OqZhlVD4L.jpg",
+      "81B6LmeX+cL._SL1600_.jpg",
+      "61APrjxNrdL._SL1600_.jpg",
+      "71b3HVD1xvL._SL1600_.jpg",
+      "81tdrUKoJyL.jpg",
+      "6122LigciUL._SL1600_.jpg",
+      "71IUauzBzRL.jpg",
+      "71vEr57CsxL._SL1600_.jpg",
+      "B06Y56NDF4-3.jpg"
+    ]
+  },
+  "B01N9P4NH5": {
+    "Positive": {
+      "Ref": [
+        "71cPOA7goBL.jpg",
+        "716-NJ11KUL.jpg",
+        "71On95kuCqL.jpg",
+        "71us--TO5ZL.jpg"
+      ],
+      "Eval": [
+        "71WmorIXd9L.jpg",
+        "71n3Qtk1YrL.jpg",
+        "617zO7Ds0DL._SL1600_.jpg",
+        "D1BGKUvs--S._SL1600_.jpg",
+        "71kOoU9S1ML.jpg"
+      ]
+    },
+    "Negative": [
+      "81B6LmeX+cL._SL1600_.jpg",
+      "61APrjxNrdL._SL1600_.jpg",
+      "71MN9WKpJdL.jpg",
+      "71SCsajqvzL.jpg",
+      "71Q8-6l-gIL.jpg",
+      "71AoNa6dIRL.jpg",
+      "71Tf8Yon-lL.jpg",
+      "71BHSrBr5UL.jpg",
+      "B01N9P4NH5-0.jpg"
+    ]
+  },
+  "B01DZWX5II": {
+    "Positive": {
+      "Ref": [
+        "71w55FBad5L.jpg",
+        "31skXClXD2L._SL1600_.jpg",
+        "71K2rjv2eIL._SL1600_.jpg",
+        "81tazhq3IcL.jpg",
+        "71ZmYplenYL.jpg"
+      ],
+      "Eval": [
+        "61sT5VcAOyL._SL1600_.jpg",
+        "71D+ycAnFlL.jpg",
+        "710L7wU2a-L._SL1600_.jpg",
+        "71F-PSgs25L.jpg",
+        "61009BBKWJL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71Pm2n0cZ5L.jpg",
+      "81locTJuehL._SL1600_.jpg",
+      "61APrjxNrdL._SL1600_.jpg",
+      "61ZnY8h8IaL.jpg",
+      "71b3HVD1xvL._SL1600_.jpg",
+      "71f9fvKZaOL.jpg",
+      "61wkfs-0-9L._SL1600_.jpg",
+      "71E7TH0uvdL.jpg",
+      "610nx7voqxL._SL1600_.jpg",
+      "71CvHNyPPKL.jpg",
+      "71AoNa6dIRL.jpg",
+      "712OxNi0eeL.jpg",
+      "71j0yOAKEwL.jpg",
+      "81B6LmeX+cL._SL1600_.jpg"
+    ]
+  },
+  "B079QYYGF1": {
+    "Positive": {
+      "Ref": [
+        "71MYkRVX8qL.jpg",
+        "71d3PGLSxVL.jpg",
+        "71CvHNyPPKL.jpg",
+        "61OQcqXPX2L.jpg",
+        "517A4nm394L._SL1600_.jpg"
+      ],
+      "Eval": [
+        "61APrjxNrdL._SL1600_.jpg",
+        "81eloC+0nsL._SL1600_.jpg",
+        "81M7NRfr75L._SL1600_.jpg",
+        "61wkfs-0-9L._SL1600_.jpg",
+        "71IUauzBzRL.jpg",
+        "81B6LmeX+cL._SL1600_.jpg",
+        "71OqZhlVD4L.jpg",
+        "718xxRrAowL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71t2lWAaiSL.jpg",
+      "71E7TH0uvdL.jpg",
+      "71Q8-6l-gIL.jpg",
+      "71WmorIXd9L.jpg",
+      "710L-r3WJiL._SL1600_.jpg",
+      "71PrINDzSxL.jpg",
+      "715Vbj05XGL.jpg",
+      "61NfT0voSZL.jpg",
+      "8183NPzNn1L.jpg",
+      "71MN9WKpJdL.jpg",
+      "71kLAp5lk7L.jpg",
+      "71D+ycAnFlL.jpg",
+      "71ZmYplenYL.jpg",
+      "71f9fvKZaOL.jpg",
+      "71BHSrBr5UL.jpg",
+      "81locTJuehL._SL1600_.jpg",
+      "6122LigciUL._SL1600_.jpg",
+      "B079QYYGF1-3.jpg"
+    ]
+  },
+  "B07FX7394L": {
+    "Positive": {
+      "Ref": [
+        "81LOoY5ebTL._SL1600_.jpg",
+        "71j0yOAKEwL.jpg",
+        "71oDv+Yx0IL.jpg"
+      ],
+      "Eval": [
+        "71f9fvKZaOL.jpg",
+        "71p86hlnQpL.jpg",
+        "61yuJxR+n5L.jpg",
+        "8183NPzNn1L.jpg",
+        "61G43tLuT4L.jpg"
+      ]
+    },
+    "Negative": [
+      "71SCsajqvzL.jpg",
+      "81locTJuehL._SL1600_.jpg",
+      "71BHSrBr5UL.jpg",
+      "81G8fpRHbeL.jpg",
+      "81tdrUKoJyL.jpg",
+      "71b3HVD1xvL._SL1600_.jpg",
+      "71w55FBad5L.jpg",
+      "610R1X3knNL.jpg",
+      "71MgKn5uWsL.jpg",
+      "71xkCXNAugL.jpg",
+      "71IUauzBzRL.jpg",
+      "B07FX7394L-2.jpg"
+    ]
+  }
+}

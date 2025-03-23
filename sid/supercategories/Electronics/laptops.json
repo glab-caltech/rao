@@ -1,1 +1,175 @@
-{"B07D4ZML7M": {"Positive": {"Ref": ["71VnRoWjJaL.jpg", "714SSAr68DL.jpg", "81JTpBCcoEL.jpg"], "Eval": ["71tjL-8PMwL.jpg", "717J1sf2wQL._SL1600_.jpg", "61enaZMLspL.jpg"]}, "Negative": ["71Bj7w5+hGL._SL1600_.jpg", "71zZgmg6YbL._SL1600_.jpg", "91zz4mk2DyL._SL1600_.jpg", "71gco5s-8cL.jpg", "91EKzGbCaeL._SL1600_.jpg", "910eXxpwp2L._SL1600_.jpg", "71osXODWu-L._SL1600_.jpg", "71Dp8kyn4ML.jpg", "61zYyJwg4FL._SL1600_.jpg", "71TCn6rQQWL.jpg"]}, "macbook air laptop": {"Positive": {"Ref": ["a377e9f3.jpeg", "46b482e5.jpeg", "a390dc63.jpeg", "1392e347.jpeg"], "Eval": ["95836275.jpeg", "0e10c441.jpeg", "5a1c27ed.jpeg", "4d6b821a.jpeg", "67d6f8ff.jpeg", "731a1a77.jpeg", "e7264873.jpeg", "4a5d703f.jpeg", "179b2d9e.jpeg", "db47bdc0.jpeg", "2622151a.jpeg", "d170d249.jpeg", "0097012b.jpeg", "861b1bd4.jpeg", "20ece2aa.jpeg", "033badfa.jpeg"]}, "Negative": ["da44934c.jpeg", "2ffef90d.jpeg", "8c4efefb.jpeg", "78bd161d.jpeg", "434e7de2.jpeg", "2786735d.jpeg", "c2459536.jpeg", "6e9d3c25.jpeg", "1b90f824.jpeg", "5516df0a.jpeg", "122b1fc8.jpeg", "ad42cd92.jpeg", "51f08b77.jpeg", "08cc6373.jpeg", "f0f486b7.jpeg", "096ca0ee.jpeg", "32a645ac.jpeg", "652f8b06.jpeg", "a6d1ecdc.jpeg", "b6dbbd9d.jpeg", "0d6f761a.jpeg", "484c7fb7.jpeg", "704300bc.jpeg", "8ab0cd06.jpeg", "feefd3ea.jpeg", "2ceaa1b0.jpeg", "a06d4c1a.jpeg", "0fb0f809.jpeg", "498aac69.jpeg", "4f14a4c5.jpeg", "8a3db614.jpeg", "2a43b59e.jpeg", "3316493a.jpeg", "b43b5bcd.jpeg", "47960705.jpeg", "df12799d.jpeg", "6e20532d.jpeg", "eac77767.jpeg", "b56d8d7e.jpeg", "4a396bd6.jpeg", "5f3eab12.jpeg", "b8c311f5.jpeg", "3d380656.jpeg", "5f10d66a.jpeg", "898171ff.jpeg", "5191a475.jpeg", "121ff05a.jpeg", "25383ec4.jpeg", "f79ad161.jpeg", "d2ff3f68.jpeg", "71d1f5f4.jpeg", "edc4b942.jpeg", "8f2885cc.jpeg", "0cbe15d3.jpeg", "15b98509.jpeg", "af2d5a56.jpeg", "9f0cf5e5.jpeg", "d3ccd85a.jpeg", "4415bc06.jpeg", "7a84c38a.jpeg", "068e404f.jpeg", "46192bf5.jpeg", "256b48ee.jpeg", "6074fcc6.jpeg", "9d86b020.jpeg", "088179d8.jpeg", "9bac54e8.jpeg", "62411aaa.jpeg", "8e8b1359.jpeg", "3ceb1f5d.jpeg", "cc35282c.jpeg", "f57d5f56.jpeg", "2806b941.jpeg", "fd3481ff.jpeg", "c85c3770.jpeg", "63861c9f.jpeg", "e70513c8.jpeg", "59cd689a.jpeg", "8e29e287.jpeg", "e02034ed.jpeg", "9117abfb.jpeg", "1bba9b46.jpeg", "c07e6634.jpeg", "d7dfe95d.jpeg", "93e4709f.jpeg", "50747bb0.jpeg", "db83ff42.jpeg", "352c5a41.jpeg", "739157cf.jpeg", "86db2863.jpeg", "f108e0b2.jpeg", "68e4c98b.jpeg", "8d66d981.jpeg", "9e6122ec.jpeg", "7024fa99.jpeg", "0ab568b5.jpeg", "26267ad1.jpeg", "e49eb129.jpeg", "dd9b234c.jpeg", "1ea57fb1.jpeg", "a5bf4cc8.jpeg", "4251698b.jpeg", "d5dbfb4c.jpeg", "f8551940.jpeg", "4825e272.jpeg", "2eb5a6fe.jpeg", "75fddbe2.jpeg", "4bab8c96.jpeg", "6d9d5664.jpeg", "2f590e6e.jpeg", "855bc750.jpeg", "864c6e7d.jpeg", "815939c0.jpeg", "41ef8eaa.jpeg", "83defb9a.jpeg", "515677f8.jpeg", "1b80a936.jpeg", "a82b50e5.jpeg", "1751928f.jpeg", "a9547ea5.jpeg", "7565a2b9.jpeg", "d848de02.jpeg", "36297254.jpeg", "a9155704.jpeg", "ba57688f.jpeg", "083cef24.jpeg", "d4aaa7dd.jpeg", "e1140e9a.jpeg", "234a9f0f.jpeg", "3b4df8cb.jpeg", "46316210.jpeg", "9ca892a8.jpeg", "4008e71f.jpeg", "e467a756.jpeg", "8f5e1479.jpeg", "ddf671c9.jpeg", "084722aa.jpeg", "402a013a.jpeg", "341a1789.jpeg", "45d94d59.jpeg", "b0f54aec.jpeg", "b8fe3c0b.jpeg", "6592a1ba.jpeg", "dfec1921.jpeg", "5cfa94a4.jpeg", "11380710.jpeg", "0ca53d7f.jpeg", "0ed295f9.jpeg", "241aa378.jpeg", "5dda0fcc.jpeg", "17a14c71.jpeg", "a18f8c63.jpeg", "cfce95e7.jpeg", "6217da2a.jpeg", "29ec8644.jpeg", "9c17b687.jpeg", "22133e86.jpeg", "0a87e98b.jpeg", "367e868e.jpeg", "df007ceb.jpeg", "9735be69.jpeg", "336a23eb.jpeg", "a51fe550.jpeg", "685a4578.jpeg", "1494ce6f.jpeg", "324eb49f.jpeg", "695c6b6c.jpeg", "4c01ba65.jpeg", "d6052d6c.jpeg", "b45eb952.jpeg", "a3f2d7e0.jpeg", "de618ea0.jpeg", "7f611edc.jpeg", "f70a8e49.jpeg", "3a74104f.jpeg", "37b5bc0f.jpeg", "417c1a5c.jpeg", "687df40e.jpeg", "15e607d4.jpeg", "f64d4f0c.jpeg", "bc76beb6.jpeg", "e8f480fd.jpeg"]}, "alienware m18 laptop": {"Positive": {"Ref": ["ac6b37ba.jpeg", "b78c4c10.jpeg", "54727af0.jpeg", "7ef58b99.jpeg", "451469de.jpeg"], "Eval": ["6e459810.jpeg", "7317b42e.jpeg", "adc5c6ef.jpeg", "0aad80a8.jpeg", "d3aea67b.jpeg", "f3cc798e.jpeg", "de4e8d0c.jpeg", "8e0a7b5c.jpeg", "fcc43519.jpeg", "1a725f84.jpeg", "89dc9e1c.jpeg", "82a77ac4.jpeg", "b78da1d3.jpeg", "0e0f657c.jpeg", "032b76cb.jpeg"]}, "Negative": ["c386656b.jpeg", "cdb6868d.jpeg", "521b2ee0.jpeg", "73a6cae1.jpeg", "40ce9903.jpeg", "61b93f2c.jpeg", "8ef482c9.jpeg", "f9269ed3.jpeg", "27ae6f32.jpeg", "5da966c6.jpeg", "9059e2e5.jpeg", "2aec7be0.jpeg", "e71beb26.jpeg", "a345f890.jpeg", "7eaaf5d7.jpeg", "00b41953.jpeg", "f8a46154.jpeg", "0184754b.jpeg", "547718a7.jpeg", "61e542e7.jpeg", "20ef8e05.jpeg", "cf5d8026.jpeg", "35316755.jpeg", "2fac69e3.jpeg", "078300c4.jpeg", "b174d251.jpeg", "258210e6.jpeg", "d7466607.jpeg", "0f5ee364.jpeg", "933179f3.jpeg", "68008fd1.jpeg", "7e4e0e0d.jpeg", "afdc8294.jpeg", "15afbd8a.jpeg", "0c4795d6.jpeg", "00051ed7.jpeg", "5bba327c.jpeg", "cb722efd.jpeg", "b5b2174f.jpeg", "855ca070.jpeg", "ad0fe6ef.jpeg", "3a4c7c95.jpeg", "a81e8cdf.jpeg", "33c46c5b.jpeg", "1d82d4ef.jpeg", "8e18be26.jpeg", "db49203e.jpeg", "93b9d7aa.jpeg", "b752a762.jpeg", "e6640033.jpeg", "4a9b4a77.jpeg", "4b94c8a0.jpeg", "9a06d051.jpeg", "2b4f92aa.jpeg", "31877c6a.jpeg", "112763f0.jpeg", "1325c231.jpeg", "c5b24c29.jpeg", "47eb344b.jpeg", "47ecb4df.jpeg", "f969b7cc.jpeg", "c8854e67.jpeg", "9bab635a.jpeg", "9c2a1e40.jpeg", "6841175f.jpeg", "9298a977.jpeg", "1aa3018c.jpeg", "c2fa483a.jpeg", "001784d5.jpeg", "b2accbec.jpeg", "f59abf75.jpeg", "fe69229a.jpeg", "35ab529d.jpeg", "5550f2d7.jpeg", "dc85f135.jpeg", "6f9fe573.jpeg", "e6e702bf.jpeg", "4f870287.jpeg", "1e054009.jpeg", "7ed1c400.jpeg", "1d595dc3.jpeg", "3d291299.jpeg", "de376cba.jpeg", "d8dad89c.jpeg", "4ab1f7fc.jpeg", "9156ac65.jpeg", "61d9fb1b.jpeg", "fd1572e0.jpeg", "d31a3aab.jpeg", "677a66a6.jpeg", "b0de38b0.jpeg", "4bcffb2a.jpeg", "9d9cb783.jpeg", "e7319d62.jpeg", "e140ad7c.jpeg", "63904406.jpeg", "4eeab1d6.jpeg", "7ebf40d1.jpeg", "14118399.jpeg", "566b041f.jpeg", "22837e8c.jpeg", "51651075.jpeg", "8c8fb413.jpeg", "49d09039.jpeg", "c28ff0c9.jpeg", "2130a87f.jpeg", "ced9cc29.jpeg", "2e1b3cda.jpeg", "7b4ed294.jpeg", "5614610b.jpeg", "9d651f4b.jpeg", "d2c5718f.jpeg", "c9e76284.jpeg", "18811b79.jpeg", "4de42d2d.jpeg", "c9fc3660.jpeg", "7cdd7189.jpeg", "8fa40ecd.jpeg", "18d251d2.jpeg", "1d11d43b.jpeg", "48490bfa.jpeg", "c303e366.jpeg", "30ac76c3.jpeg", "bb77000e.jpeg", "8212d8f0.jpeg", "b4c31004.jpeg", "69963080.jpeg", "70061531.jpeg", "9abb678f.jpeg", "fab24a6f.jpeg", "81fd13e3.jpeg", "89fd8e87.jpeg", "538b3ed5.jpeg", "24343d32.jpeg", "644817e8.jpeg", "177dd7cd.jpeg", "5a02652e.jpeg", "d21ea14c.jpeg", "0952262c.jpeg", "d837530b.jpeg", "13d81e4e.jpeg", "f26ba4dc.jpeg", "4e7047a8.jpeg", "39af07ec.jpeg", "db49336f.jpeg", "0f799dd6.jpeg", "8311053e.jpeg", "46788cac.jpeg", "31003814.jpeg", "254442fc.jpeg", "2237b983.jpeg", "7449c204.jpeg", "709373dc.jpeg", "4c2981c3.jpeg", "160a7363.jpeg", "32210515.jpeg", "d6f2668f.jpeg", "87f63dca.jpeg", "a35b20c7.jpeg", "9ee43d29.jpeg", "48459ca0.jpeg", "e39c5832.jpeg", "c1af29ca.jpeg", "d3408107.jpeg", "326948ff.jpeg", "981f9129.jpeg", "c9b26a4b.jpeg", "e8af43a1.jpeg", "dd258396.jpeg", "ef74bbe6.jpeg", "839a0db7.jpeg", "08deac5a.jpeg", "ac11ff4b.jpeg", "1471715a.jpeg", "af84d3e4.jpeg", "25ebcbf5.jpeg", "088af253.jpeg", "bc5ab6d6.jpeg", "5a1724a8.jpeg", "2781b3c2.jpeg", "8aae27f8.jpeg", "3a2daf5e.jpeg"]}, "macbook pro laptop": {"Positive": {"Ref": ["1588d1c0.jpeg", "36d46038.jpeg", "5e377b55.jpeg"], "Eval": ["f1d4a4d1.jpeg", "db2effd1.jpeg", "0264f78e.jpeg", "d0b2bfbc.jpeg", "edf4b397.jpeg", "c8521972.jpeg", "5daa9c98.jpeg", "3da2c749.jpeg", "a3986cd7.jpeg", "5e607043.jpeg", "190e5ae5.jpeg", "5237903a.jpeg", "5f0ecf3e.jpeg", "e8fd6dd2.jpeg", "ebe27182.jpeg", "0059e8ae.jpeg", "92a73c8c.jpeg"]}, "Negative": ["cbf651ad.jpeg", "bed9cd3c.jpeg", "069b42fd.jpeg", "ab399b1b.jpeg", "6a5d3642.jpeg", "e022de5d.jpeg", "26b831a0.jpeg", "116c1718.jpeg", "7c4b8df2.jpeg", "b2dc1edc.jpeg", "cfbe2e26.jpeg", "f9e9721c.jpeg", "f182b0d6.jpeg", "7d97a322.jpeg", "b2b83f2b.jpeg", "1230b6a7.jpeg", "baf81105.jpeg", "190138dd.jpeg", "0dd43e5b.jpeg", "3d949582.jpeg", "fb82c9f0.jpeg", "33bb4aa5.jpeg", "6b7b61d8.jpeg", "c2ed484e.jpeg", "09112275.jpeg", "b04fc788.jpeg", "4ad0b1e1.jpeg", "c2c1ea32.jpeg", "d254c61c.jpeg", "5a48f89c.jpeg", "dcb94307.jpeg", "f00fd6e3.jpeg", "8929b09d.jpeg", "76524d6e.jpeg", "0397bec6.jpeg", "2a0b89d1.jpeg", "00cf91f4.jpeg", "db8a860a.jpeg", "87fc7e0f.jpeg", "6de78982.jpeg", "75b3539b.jpeg", "60629757.jpeg", "d5da1bfa.jpeg", "bc24cffc.jpeg", "55122835.jpeg", "fce50b04.jpeg", "49721a65.jpeg", "9d576115.jpeg", "33ef4f60.jpeg", "79066129.jpeg", "25a61584.jpeg", "b295c9b9.jpeg", "3259c017.jpeg", "4c8b3a48.jpeg", "b84bff13.jpeg", "664ae535.jpeg", "f21021f0.jpeg", "14604420.jpeg", "dc4a3b81.jpeg", "382f89ca.jpeg", "19facb48.jpeg", "9356d128.jpeg", "e0e19874.jpeg", "c55492d3.jpeg", "60591cf7.jpeg", "8716349a.jpeg", "bc85ea2a.jpeg", "6f7c396b.jpeg", "76a9f11f.jpeg", "9639bddd.jpeg", "654c3de1.jpeg", "5646a111.jpeg", "b49ff21c.jpeg", "83b3cfe2.jpeg", "d1d576ef.jpeg", "7744470b.jpeg", "ac35b9a2.jpeg", "70850403.jpeg", "a2319fa7.jpeg", "b0c84188.jpeg", "810a8549.jpeg", "ab846fbf.jpeg", "4f4203ac.jpeg", "f6060806.jpeg", "d01dfb54.jpeg", "75b2f228.jpeg", "d2760adb.jpeg", "d76231b0.jpeg", "4d786c54.jpeg", "2cc7b204.jpeg", "7bb6b636.jpeg", "8e9b0e4c.jpeg", "a68ee1dd.jpeg", "37faa6d5.jpeg", "d3a7655f.jpeg", "cd4486bb.jpeg", "c4300ece.jpeg", "ded593ac.jpeg", "e6cd73ee.jpeg", "68c54c76.jpeg", "76fe5f5a.jpeg", "ddfe325d.jpeg", "a3c1ea1e.jpeg", "e7f8b86f.jpeg", "a02d44a6.jpeg", "9b6ad39c.jpeg", "69cefd8d.jpeg", "fcff5b3d.jpeg", "3b53c6e8.jpeg", "553cb0c5.jpeg", "4e9734bd.jpeg", "3d79d045.jpeg", "58ce1b01.jpeg", "764912e8.jpeg", "d29ac70c.jpeg", "673fc565.jpeg", "c3cff5d5.jpeg", "f3c33084.jpeg", "9133ba98.jpeg", "ec3b7d5d.jpeg", "efb39b8b.jpeg", "252c8ed6.jpeg", "41dc1872.jpeg", "7eb71771.jpeg", "d0a5988f.jpeg", "57008564.jpeg", "f531a87f.jpeg", "d8fa5d7c.jpeg", "d8a8140a.jpeg", "1d1f0780.jpeg", "31937aeb.jpeg", "db4b025a.jpeg", "07d27587.jpeg", "917aa153.jpeg", "10a2cca6.jpeg", "fae002b0.jpeg", "14e9e6ac.jpeg", "985f6efa.jpeg", "e2f103f8.jpeg", "7baf31b9.jpeg", "8bcbb7ae.jpeg", "0a92c37e.jpeg", "ffa55349.jpeg", "7292d66c.jpeg", "e6fb44f8.jpeg", "5a31bf82.jpeg", "b048aee9.jpeg", "cccf2fd0.jpeg", "4e8a3df1.jpeg", "a5b80e47.jpeg", "b1e984a3.jpeg", "477c9996.jpeg", "3612db46.jpeg", "07de49cc.jpeg", "11e09b68.jpeg", "43bdcdbd.jpeg", "5b87a0f8.jpeg", "5b858f74.jpeg", "540575c9.jpeg", "71ea2004.jpeg", "51f160eb.jpeg", "64240685.jpeg", "9ae57f00.jpeg", "4c394cd9.jpeg", "611c54e6.jpeg", "eb5d0684.jpeg", "a9962559.jpeg", "ecdeef9e.jpeg", "0eaa1d19.jpeg", "1e7cbb9f.jpeg", "ca51c666.jpeg", "70e3509b.jpeg", "eaff7115.jpeg", "5207983b.jpeg", "28ea7052.jpeg", "3b75d00f.jpeg", "c368e93a.jpeg", "647bc450.jpeg", "0deb8c2e.jpeg", "0180a163.jpeg", "5a510eea.jpeg", "efd4d09b.jpeg"]}, "B09RMH9B6F": {"Positive": {"Ref": ["71rgtbo1-vL._SL1600_.jpg", "71cWNk3wR0L._SL1600_.jpg", "71cWNk3wR0L._SL1600_.jpg"], "Eval": ["61BTp8Vg29L._SL1600_.jpg", "716vC4c3AJL._SL1600_.jpg", "71UntXdYLtL._SL1600_.jpg"]}, "Negative": ["A1t52qyVQ8L._SL1600_.jpg", "71Dp8kyn4ML.jpg", "71TCn6rQQWL.jpg", "61Y3ft+sRuL._SL1600_.jpg", "910eXxpwp2L._SL1600_.jpg", "61zyhG6s9fL._SL1600_.jpg", "71PncEtXKZL.jpg", "71-DS6B7uBL._SL1600_.jpg", "71E97J0m-3L.jpg", "61lHLfnS6SL._SL1600_.jpg"]}, "B085B3GFRL": {"Positive": {"Ref": ["71PncEtXKZL.jpg", "71laL4JaGYL.jpg", "71zZgmg6YbL._SL1600_.jpg"], "Eval": ["81DnAm6RZbL._SL1600_.jpg", "81orwoDeGdL.jpg", "81pRjTTA1nL.jpg", "71SsW9a2m2L.jpg", "71Pj2D+6ADL.jpg", "412gMaQ6Z5L._SL1600_.jpg", "71XSqF3uxaL.jpg", "81m3Q6+a5hL._SL1600_.jpg", "71KtAR-vW0L.jpg", "71hZ4TnvA8L.jpg", "71TCn6rQQWL.jpg", "71gco5s-8cL.jpg", "A1kmWOwEEuL._SL1600_.jpg", "71VQyHrf46L._SL1600_.jpg", "71lhafmXPjL._SL1600_.jpg", "81DMKmZUpJL._SL1600_.jpg", "61RGxrPiAsL.jpg", "B1GtSRVC9AS._SL1600_.jpg", "D1rPSaSEA2S._SL1600_.jpg", "71ZN7RcKWTL.jpg", "71HWvBUKhxL.jpg", "41mYju6mTsL._SL1600_.jpg"]}, "Negative": ["910eXxpwp2L._SL1600_.jpg", "71IehZ4RkML._SL1600_.jpg", "71rgtbo1-vL._SL1600_.jpg", "71BMMt3DRVL._SL1600_.jpg", "61zYyJwg4FL._SL1600_.jpg", "71osXODWu-L._SL1600_.jpg", "610uiDzSffL._SL1600_.jpg", "716vC4c3AJL._SL1600_.jpg", "717J1sf2wQL._SL1600_.jpg", "7156sDj+AsL.jpg", "812ZkFxHD+L._SL1600_.jpg", "71ZUJCYVdQL._SL1600_.jpg", "61U1xr7sfwL._SL1600_.jpg", "71Dp8kyn4ML.jpg", "91EKzGbCaeL._SL1600_.jpg", "A1t52qyVQ8L._SL1600_.jpg", "91zz4mk2DyL._SL1600_.jpg", "71tjL-8PMwL.jpg", "71QZ5+b4mZL.jpg", "71Bj7w5+hGL._SL1600_.jpg", "814mcmeTG2L._SL1600_.jpg", "71vXLEsOFXL.jpg", "B1lgWl3y8pS._SL1600_.jpg", "61BTp8Vg29L._SL1600_.jpg", "71+XE5sGH3L._SL1600_.jpg", "71cTGnm2e4L._SL1600_.jpg", "61lHLfnS6SL._SL1600_.jpg", "71Cd9R9n3JL.jpg", "61enaZMLspL.jpg", "31KNLEAf8AL._SL1600_.jpg", "71-DS6B7uBL._SL1600_.jpg", "7111H4En-mL.jpg", "61zyhG6s9fL._SL1600_.jpg", "71cWNk3wR0L._SL1600_.jpg", "71kS3RKDNCL._SL1600_.jpg", "71fVClU4XlL.jpg"]}, "msi titangt77 laptop": {"Positive": {"Ref": ["9805f2b0.jpeg", "2e6cdbf0.jpeg", "fcb1b5ce.jpeg", "ca12f9a3.jpeg"], "Eval": ["ee364ec3.jpeg", "6c655ea3.jpeg", "2ea2389b.jpeg", "565603ab.jpeg", "2c11dee9.jpeg", "7f22f0bc.jpeg", "826fddc8.jpeg", "4abfaa33.jpeg", "e8c85d7e.jpeg", "6c3a2c65.jpeg", "1d5f0851.jpeg", "0defe181.jpeg", "2db9ee1f.jpeg", "81f796b4.jpeg", "c94f1ad9.jpeg", "cb2543e6.jpeg"]}, "Negative": ["dcdf0c98.jpeg", "932c325a.jpeg", "cbe297d0.jpeg", "4dab59c9.jpeg", "15725d69.jpeg", "8b3bd6a0.jpeg", "64da723a.jpeg", "67af8837.jpeg", "efa2ac4d.jpeg", "2271f192.jpeg", "c120f98c.jpeg", "8b0c4ed6.jpeg", "8afaaeac.jpeg", "8a491863.jpeg", "4ef8de17.jpeg", "48b02945.jpeg", "9f3de737.jpeg", "f1c95844.jpeg", "6a0d259b.jpeg", "e16240e8.jpeg", "acfaf391.jpeg", "273e3ac0.jpeg", "3b103497.jpeg", "51b59c39.jpeg", "e23c2c8f.jpeg", "04bb227b.jpeg", "03e20ea1.jpeg", "28dad9e5.jpeg", "a36fc5e7.jpeg", "3b6dc5c6.jpeg", "c0c861e7.jpeg", "d123993f.jpeg", "ca6fefbd.jpeg", "98ca8952.jpeg", "f3000d6f.jpeg", "cbcee7c6.jpeg", "acb5e446.jpeg", "a58fe590.jpeg", "186b1c24.jpeg", "7492afca.jpeg", "468e0bcc.jpeg", "187ece7a.jpeg", "4d3db805.jpeg", "8c18e641.jpeg", "74387a9f.jpeg", "c2bccc6b.jpeg", "fc0b27b4.jpeg", "f2e7a658.jpeg", "7e795564.jpeg", "b10c8bcd.jpeg", "c40452bc.jpeg", "63d528cd.jpeg", "6755ca77.jpeg", "a326773f.jpeg", "40dd3001.jpeg", "46b87276.jpeg", "8a687903.jpeg", "3a935122.jpeg", "0c9e4d52.jpeg", "ba3ab9c2.jpeg", "3bd64cc0.jpeg", "057220ad.jpeg", "918acff7.jpeg", "172503a9.jpeg", "37342b61.jpeg", "b31eb29f.jpeg", "0d786593.jpeg", "ecaa9c7a.jpeg", "5aedda22.jpeg", "fda1ef4e.jpeg", "09235e46.jpeg", "0c93705d.jpeg", "64ab189f.jpeg", "c3566cb9.jpeg", "e27844be.jpeg", "2bfdb8db.jpeg", "499a98d8.jpeg", "5656284c.jpeg", "ad3cc1aa.jpeg", "89466563.jpeg", "ffc3c9f5.jpeg", "06582cda.jpeg", "9447aa71.jpeg", "d2d8ccef.jpeg", "e33aa43d.jpeg", "2653e529.jpeg", "f3ba32b7.jpeg", "176c145d.jpeg", "4f43c486.jpeg", "2aea5978.jpeg", "16c63765.jpeg", "4446bd28.jpeg", "bc96b040.jpeg", "61a5ae30.jpeg", "29848bea.jpeg", "ab8a4d6c.jpeg", "f9edff13.jpeg", "dd6ba1c4.jpeg", "0394d139.jpeg", "7ae0032c.jpeg", "11c7347c.jpeg", "583a5766.jpeg", "253f16d5.jpeg", "56928bf1.jpeg", "9479139a.jpeg", "a112093f.jpeg", "1d621e99.jpeg", "006e67ca.jpeg", "80e66275.jpeg", "78437ef8.jpeg", "4a559634.jpeg", "4ce15cb1.jpeg", "cbb23a7e.jpeg", "2460ee59.jpeg", "680d0682.jpeg", "8f8bd826.jpeg", "17ff2a10.jpeg", "f57b7900.jpeg", "8ff2f211.jpeg", "a2263767.jpeg", "36d55fb3.jpeg", "ed9d6e88.jpeg", "7d1b2262.jpeg", "6d7dbc8b.jpeg", "027de72c.jpeg", "8b39c8b9.jpeg", "d7be55e7.jpeg", "6a76964a.jpeg", "f492c595.jpeg", "4a022358.jpeg", "31da2003.jpeg", "c8ba7ce7.jpeg", "7675c74a.jpeg", "e70a2c52.jpeg", "a22e9853.jpeg", "61fe37f2.jpeg", "be7fc375.jpeg", "38dd4ae5.jpeg", "89af5504.jpeg", "91b598fc.jpeg", "6798ad62.jpeg", "46ba980a.jpeg", "1bc0e102.jpeg", "2366226b.jpeg", "61f096d3.jpeg", "07adb617.jpeg", "0190e1d2.jpeg", "c2412948.jpeg", "1dea9959.jpeg", "cc0c8c92.jpeg", "d203cd93.jpeg", "0bd6bae8.jpeg", "4ccf20c9.jpeg", "f8449c84.jpeg", "2e026304.jpeg", "f1814222.jpeg", "f56805e7.jpeg", "cf8f2d49.jpeg", "03cef185.jpeg", "e95d87a3.jpeg", "88544963.jpeg", "68ce2b48.jpeg", "04414963.jpeg", "574779f3.jpeg", "ae468925.jpeg", "044b5a70.jpeg", "efb50350.jpeg", "830c48d6.jpeg", "e4663261.jpeg", "ead2f278.jpeg", "23798ba9.jpeg", "7a701d83.jpeg", "6305dcb0.jpeg", "3e9f3409.jpeg", "5375625b.jpeg", "ab471f3c.jpeg", "1c5ccc7a.jpeg", "c1e8cab1.jpeg", "4c81d50f.jpeg", "cede3f4f.jpeg", "955cbbab.jpeg", "ac8df0b9.jpeg"]}}
+{
+  "B07D4ZML7M": {
+    "Positive": {
+      "Ref": [
+        "71VnRoWjJaL.jpg",
+        "714SSAr68DL.jpg",
+        "81JTpBCcoEL.jpg"
+      ],
+      "Eval": [
+        "71tjL-8PMwL.jpg",
+        "717J1sf2wQL._SL1600_.jpg",
+        "61enaZMLspL.jpg"
+      ]
+    },
+    "Negative": [
+      "71zZgmg6YbL._SL1600_.jpg",
+      "91zz4mk2DyL._SL1600_.jpg",
+      "910eXxpwp2L._SL1600_.jpg",
+      "71Dp8kyn4ML.jpg",
+      "71TCn6rQQWL.jpg"
+    ]
+  },
+  "macbook air laptop": {
+    "Positive": {
+      "Ref": [
+        "a377e9f3.jpeg",
+        "46b482e5.jpeg",
+        "a390dc63.jpeg",
+        "1392e347.jpeg"
+      ],
+      "Eval": [
+        "95836275.jpeg",
+        "0e10c441.jpeg",
+        "67d6f8ff.jpeg",
+        "731a1a77.jpeg",
+        "179b2d9e.jpeg"
+      ]
+    },
+    "Negative": [
+      "8ab0cd06.jpeg",
+      "f79ad161.jpeg",
+      "63861c9f.jpeg",
+      "1751928f.jpeg",
+      "9ca892a8.jpeg"
+    ]
+  },
+  "alienware m18 laptop": {
+    "Positive": {
+      "Ref": [
+        "ac6b37ba.jpeg",
+        "b78c4c10.jpeg",
+        "54727af0.jpeg",
+        "7ef58b99.jpeg",
+        "451469de.jpeg"
+      ],
+      "Eval": [
+        "6e459810.jpeg",
+        "d3aea67b.jpeg",
+        "de4e8d0c.jpeg",
+        "fcc43519.jpeg",
+        "b78da1d3.jpeg"
+      ]
+    },
+    "Negative": [
+      "8c8fb413.jpeg",
+      "2e1b3cda.jpeg",
+      "9ee43d29.jpeg",
+      "d3408107.jpeg",
+      "08deac5a.jpeg"
+    ]
+  },
+  "macbook pro laptop": {
+    "Positive": {
+      "Ref": [
+        "1588d1c0.jpeg",
+        "36d46038.jpeg",
+        "5e377b55.jpeg"
+      ],
+      "Eval": [
+        "db2effd1.jpeg",
+        "c8521972.jpeg",
+        "3da2c749.jpeg",
+        "5f0ecf3e.jpeg",
+        "e8fd6dd2.jpeg"
+      ]
+    },
+    "Negative": [
+      "ab399b1b.jpeg",
+      "55122835.jpeg",
+      "dc4a3b81.jpeg",
+      "a2319fa7.jpeg",
+      "ec3b7d5d.jpeg"
+    ]
+  },
+  "B09RMH9B6F": {
+    "Positive": {
+      "Ref": [
+        "71rgtbo1-vL._SL1600_.jpg",
+        "71cWNk3wR0L._SL1600_.jpg",
+        "71cWNk3wR0L._SL1600_.jpg"
+      ],
+      "Eval": [
+        "61BTp8Vg29L._SL1600_.jpg",
+        "716vC4c3AJL._SL1600_.jpg",
+        "71UntXdYLtL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71Dp8kyn4ML.jpg",
+      "71TCn6rQQWL.jpg",
+      "910eXxpwp2L._SL1600_.jpg",
+      "61zyhG6s9fL._SL1600_.jpg",
+      "71E97J0m-3L.jpg",
+      "61lHLfnS6SL._SL1600_.jpg"
+    ]
+  },
+  "B085B3GFRL": {
+    "Positive": {
+      "Ref": [
+        "71PncEtXKZL.jpg",
+        "71laL4JaGYL.jpg",
+        "71zZgmg6YbL._SL1600_.jpg"
+      ],
+      "Eval": [
+        "81DnAm6RZbL._SL1600_.jpg",
+        "71hZ4TnvA8L.jpg",
+        "71TCn6rQQWL.jpg",
+        "71lhafmXPjL._SL1600_.jpg",
+        "61RGxrPiAsL.jpg",
+        "71ZN7RcKWTL.jpg"
+      ]
+    },
+    "Negative": [
+      "910eXxpwp2L._SL1600_.jpg",
+      "716vC4c3AJL._SL1600_.jpg",
+      "717J1sf2wQL._SL1600_.jpg",
+      "7156sDj+AsL.jpg",
+      "61U1xr7sfwL._SL1600_.jpg",
+      "71Dp8kyn4ML.jpg",
+      "91zz4mk2DyL._SL1600_.jpg",
+      "71tjL-8PMwL.jpg",
+      "814mcmeTG2L._SL1600_.jpg",
+      "61BTp8Vg29L._SL1600_.jpg",
+      "61lHLfnS6SL._SL1600_.jpg",
+      "71Cd9R9n3JL.jpg",
+      "61enaZMLspL.jpg",
+      "7111H4En-mL.jpg",
+      "61zyhG6s9fL._SL1600_.jpg"
+    ]
+  },
+  "msi titangt77 laptop": {
+    "Positive": {
+      "Ref": [
+        "9805f2b0.jpeg",
+        "2e6cdbf0.jpeg",
+        "fcb1b5ce.jpeg",
+        "ca12f9a3.jpeg"
+      ],
+      "Eval": [
+        "7f22f0bc.jpeg",
+        "4abfaa33.jpeg",
+        "e8c85d7e.jpeg",
+        "1d5f0851.jpeg",
+        "cb2543e6.jpeg"
+      ]
+    },
+    "Negative": [
+      "03e20ea1.jpeg",
+      "057220ad.jpeg",
+      "06582cda.jpeg",
+      "583a5766.jpeg",
+      "cc0c8c92.jpeg"
+    ]
+  }
+}

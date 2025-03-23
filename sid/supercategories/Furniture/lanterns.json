@@ -1,1 +1,176 @@
-{"borby lantern": {"Positive": {"Ref": ["a0da794e.jpeg", "07636f38.jpeg", "c8a89fda.jpeg", "3af6d21d.jpeg", "5d681cfa.jpeg"], "Eval": ["0a12ab8d.jpeg", "5c173e28.jpeg", "344a39ba.jpeg", "069c4906.jpeg", "99188abc.jpeg", "cb2b340c.jpeg", "9180692a.jpeg", "df7327f4.jpeg", "c013fe62.jpeg", "40dfe976.jpeg", "22010986.jpeg", "dbb32408.jpeg", "ceb66998.jpeg"]}, "Negative": ["e8cede1a.jpeg", "f09ef558.jpeg", "6f5b123a.jpeg", "9b3dd2d8.jpeg", "cda97125.jpeg", "105b43fb.jpeg", "a5a60eaf.jpeg", "fcd51f6a.jpeg", "3cab1fec.jpeg", "5ade073a.jpeg", "7d5de184.jpeg", "e9a021c3.jpeg", "75459572.jpeg", "ba07b9b7.jpeg", "2369453d.jpeg", "edfe3efc.jpeg", "e8425435.jpeg", "b427cd4e.jpeg", "5745e591.jpeg", "529641fa.jpeg", "8affdab0.jpeg", "f9724f08.jpeg", "541baa7b.jpeg", "78eeb5a3.jpeg", "664703a9.jpeg", "1a42ee8f.jpeg", "9eb09343.jpeg", "5ecd6d43.jpeg", "7f00bde1.jpeg", "bba3e5b0.jpeg", "319e497d.jpeg", "a95025b9.jpeg", "e2120a8c.jpeg", "747ce9c5.jpeg", "051dcbfc.jpeg", "fa4bb9fc.jpeg", "5b6aa34f.jpeg", "db3078c1.jpeg", "f5c95524.jpeg", "cfab96aa.jpeg", "1c12e10d.jpeg", "74e81868.jpeg", "47c17ea6.jpeg", "6285bc02.jpeg", "72e78cd6.jpeg", "cd460a18.jpeg", "7b1aa4fb.jpeg", "47ce92dc.jpeg", "1764c00f.jpeg", "f19c9d88.jpeg", "75c1b672.jpeg", "a164b3cf.jpeg", "3d7424be.jpeg", "217bbb63.jpeg", "a2c26e6e.jpeg", "b696149a.jpeg", "eb751b47.jpeg", "03db7bb9.jpeg", "982a0429.jpeg", "1ef6f5a7.jpeg", "44d274ee.jpeg", "32b24fab.jpeg", "34ec7efa.jpeg", "5e988ecc.jpeg", "a36b5ab0.jpeg", "fc4957c1.jpeg", "fee23dee.jpeg", "fcf1efee.jpeg", "c8c36697.jpeg", "7169a905.jpeg", "ad98d590.jpeg", "62ed890e.jpeg", "741dea77.jpeg", "47be0bbf.jpeg", "39078f63.jpeg", "a90986c2.jpeg", "4351f60b.jpeg", "af62c9a0.jpeg", "ae6a9dca.jpeg", "b2dc0d7d.jpeg", "e8a96ec8.jpeg", "fff010b4.jpeg", "3f02f6f0.jpeg", "c058b66e.jpeg", "daf80de5.jpeg", "d7cbcf9b.jpeg", "16462502.jpeg", "3e8de9c5.jpeg", "cebf9329.jpeg", "8923b8f2.jpeg", "bde5a32d.jpeg", "6eccf925.jpeg", "fb4fc3e1.jpeg", "e77392f9.jpeg", "d3381336.jpeg", "e18a4f84.jpeg", "3bf6df39.jpeg", "31a04f61.jpeg", "c6aec482.jpeg", "b031d9e2.jpeg", "88c7bfa1.jpeg", "afef1034.jpeg", "20fa2e94.jpeg", "19df527e.jpeg", "998dab68.jpeg", "2bb22ef9.jpeg", "6add1781.jpeg", "60487c92.jpeg", "32a94b54.jpeg", "59cfe561.jpeg", "9211e61a.jpeg", "a6e488ed.jpeg", "2fc54467.jpeg", "1f218ce7.jpeg"]}, "enrum lantern": {"Positive": {"Ref": ["c770ae5e.jpeg", "3dfef889.jpeg", "1081fdbb.jpeg", "07ebd222.jpeg"], "Eval": ["b4c59014.jpeg", "408bd737.jpeg", "7a67f131.jpeg", "3825544d.jpeg", "433ebe70.jpeg", "c045644d.jpeg", "f3a2f8ae.jpeg", "7c85bae1.jpeg", "e0eae56b.jpeg", "e5512c5f.jpeg", "30de580a.jpeg", "a1cc433a.jpeg", "a99272ee.jpeg", "f2d6d053.jpeg", "43aa12d9.jpeg", "c313db96.jpeg"]}, "Negative": ["95550a90.jpeg", "4abe2c68.jpeg", "9eba892c.jpeg", "5f7aae3b.jpeg", "f6496c64.jpeg", "662b0a90.jpeg", "32986b86.jpeg", "2b253486.jpeg", "a20b1147.jpeg", "a97a7e9a.jpeg", "7d5a144f.jpeg", "52af227d.jpeg", "3bfee025.jpeg", "938ec83b.jpeg", "c5d7c3da.jpeg", "2078fc54.jpeg", "671ae7b8.jpeg", "f398151c.jpeg", "e199586a.jpeg", "fe224636.jpeg", "c0baa961.jpeg", "6622a19c.jpeg", "160c04d2.jpeg", "6a7bfe1a.jpeg", "5135dc56.jpeg", "76087421.jpeg", "5ccdba00.jpeg", "1586f6ba.jpeg", "351155c7.jpeg", "bc7699f2.jpeg", "539486e9.jpeg", "5322f910.jpeg", "3615e02e.jpeg", "76d9b21b.jpeg", "bae1d375.jpeg", "91930d50.jpeg", "a001561d.jpeg", "22b1896b.jpeg", "b3101535.jpeg", "f18af03a.jpeg", "e190dcfb.jpeg", "1a252989.jpeg", "7a754bcc.jpeg", "8a2bd76b.jpeg", "dce301dd.jpeg", "9e6f9344.jpeg", "8b1e240f.jpeg", "63ae7ef1.jpeg", "8870f049.jpeg", "10cbe915.jpeg", "d0e33cfc.jpeg", "91bc08fe.jpeg", "77744aa4.jpeg", "c9946bb3.jpeg", "4a09a5b9.jpeg", "f20116df.jpeg", "3d51890e.jpeg", "8ff3156e.jpeg", "fc2a1ff2.jpeg", "e9cb7e73.jpeg", "0f993c28.jpeg", "b2fd38d6.jpeg", "5872dac0.jpeg", "5206d686.jpeg", "03b966dc.jpeg", "9b9b2f62.jpeg", "c5517edf.jpeg", "132ee1af.jpeg", "c583d6ef.jpeg", "90d6dc5e.jpeg", "8b09f48e.jpeg", "8b8cedc0.jpeg", "e7dc73df.jpeg", "ea65d689.jpeg", "a4c058e2.jpeg", "b2ff3b3a.jpeg", "4def2890.jpeg", "f8553898.jpeg", "f3a24993.jpeg", "fa7a74be.jpeg", "aa6cc36b.jpeg", "1e1d6b12.jpeg", "fd204f96.jpeg", "3d4252b4.jpeg", "f39faa5d.jpeg", "0ec9e8c3.jpeg", "2c1af42f.jpeg", "3c62d1e0.jpeg", "1be9579b.jpeg", "2544cd30.jpeg", "812bb92e.jpeg", "3b40c3cb.jpeg", "33e97705.jpeg", "e7145871.jpeg", "c1f5acd3.jpeg", "0c4b6b78.jpeg", "3a6d5096.jpeg", "e560ea24.jpeg", "a8aaf03c.jpeg", "ab18390f.jpeg", "51cb8bbe.jpeg", "fd79ba5d.jpeg", "cc1eb0a4.jpeg", "4d8b0da6.jpeg", "3a7d02d0.jpeg", "a6fdb73e.jpeg", "5dc7eb95.jpeg", "20b74823.jpeg", "c4406bf0.jpeg", "4578dce6.jpeg", "219197f1.jpeg", "cdf0de5f.jpeg", "2863ff9c.jpeg", "ae32fd02.jpeg"]}, "befasta lantern": {"Positive": {"Ref": ["dc276218.jpeg", "6d2d129e.jpeg", "a295e27d.jpeg"], "Eval": ["e7c47a17.jpeg", "d4e3f45c.jpeg", "b0680439.jpeg", "d64490a1.jpeg", "a4519d7f.jpeg", "4a095dcd.jpeg", "9569e7ec.jpeg", "99463c8e.jpeg", "5a851756.jpeg", "5426528a.jpeg", "d8fefe04.jpeg", "6306ca1b.jpeg", "61d63035.jpeg", "f8f7b0c5.jpeg", "ff23f1d1.jpeg"]}, "Negative": ["b3f6fe80.jpeg", "b959b1f0.jpeg", "7b0d6a37.jpeg", "e8c1480a.jpeg", "0377e597.jpeg", "c769b90a.jpeg", "cc7ed67b.jpeg", "4ef579c5.jpeg", "1435c203.jpeg", "b2a08aad.jpeg", "aead4b78.jpeg", "5bb27138.jpeg", "2dc13933.jpeg", "56c3e2aa.jpeg", "e657c798.jpeg", "919f18d8.jpeg", "501195b2.jpeg", "8ac33e3d.jpeg", "d811a263.jpeg", "5cc7d932.jpeg", "c4f24064.jpeg", "e5d19ad0.jpeg", "3db4fbec.jpeg", "a824aaa0.jpeg", "0bc30784.jpeg", "b1505f62.jpeg", "32d2a92f.jpeg", "29ef2886.jpeg", "33e146b8.jpeg", "f96beca8.jpeg", "2b1077f0.jpeg", "eb640323.jpeg", "84713046.jpeg", "bd9e50f8.jpeg", "1c199133.jpeg", "01176ffe.jpeg", "b70dbdb8.jpeg", "b2862d28.jpeg", "966e3585.jpeg", "f22fde9b.jpeg", "61fb5b58.jpeg", "b43c37af.jpeg", "4786d6d4.jpeg", "939090e3.jpeg", "574e8de8.jpeg", "a90c8822.jpeg", "cdbac655.jpeg", "631d8a50.jpeg", "1a56a561.jpeg", "d503286e.jpeg", "2a6ce49d.jpeg", "f4446741.jpeg", "bfb29ab7.jpeg", "3b6ac5cc.jpeg", "7771ad45.jpeg", "ff4ac147.jpeg", "f5ce079b.jpeg", "3f9d1615.jpeg", "5cea5438.jpeg", "2601b353.jpeg", "991af285.jpeg", "73da5a43.jpeg", "c1df148c.jpeg", "dabf23a7.jpeg", "eec90b61.jpeg", "7bd9c90b.jpeg", "9a2e865e.jpeg", "1a140452.jpeg", "c8fa0127.jpeg", "0f42e0d5.jpeg", "c696c301.jpeg", "20a8c5f1.jpeg", "fbe8ea02.jpeg", "7c71fcf0.jpeg", "64c1aa1c.jpeg", "bde3ffa3.jpeg", "d508bbd5.jpeg", "09cd6c7c.jpeg", "114a65a4.jpeg", "fb113d52.jpeg", "91c9b54b.jpeg", "b6e52ae2.jpeg", "5ee2505f.jpeg", "8794c3f7.jpeg", "9e609c54.jpeg", "fcde9449.jpeg", "1620cf88.jpeg", "06116f7e.jpeg", "d7252ee6.jpeg", "80afff99.jpeg", "a5496744.jpeg", "d3ee3fc6.jpeg", "5e6ae5cc.jpeg", "1b59b4d1.jpeg", "d38c788d.jpeg", "cf5ec995.jpeg", "9a4402c3.jpeg", "9310f149.jpeg", "b427f24c.jpeg", "f9a9e09b.jpeg", "0bdef8a9.jpeg", "044b74d5.jpeg", "41c45773.jpeg", "037b76f4.jpeg", "47ee45f5.jpeg", "c2ee2900.jpeg", "1046a87e.jpeg", "34bfc2c1.jpeg", "8d9080fa.jpeg", "bd7c3341.jpeg", "4d35d420.jpeg", "8ef633f8.jpeg", "e16dbdd3.jpeg", "7ecbb243.jpeg"]}, "B00B3L0550": {"Positive": {"Ref": ["91U3huD4XCL._SL1600_.jpg", "61CNHfUjCzL.jpg", "7187Z4iXywL.jpg", "7118atj4HIL.jpg"], "Eval": ["71jlNRMVyyL.jpg", "71yOrxYtu3L.jpg", "71OfiHi9GfL.jpg", "813OTKyy7IL.jpg", "61VMDJFuiCL.jpg", "615SyJ9J6nL._SL1600_.jpg", "81eHJjnudmL._SL1600_.jpg", "418FjTgt68L._SL1600_.jpg", "61mE17H1d+L.jpg"]}, "Negative": ["71JIR5AOxLL.jpg", "81dMc60tCWL.jpg", "81zfuCm93sL.jpg", "B1MKZWTJiwS._SL1600_.jpg", "61QGt8vZyyL._SL1600_.jpg", "61Jd6o2uJoL.jpg", "91F-7603SXL._SL1600_.jpg", "71cJ812+LHL._SL1600_.jpg", "71KpZLzyXYL.jpg", "61nSGwAB-eL._SL1600_.jpg", "71UcFO-AgLL.jpg", "71n9dGi0HhL.jpg", "61Ld4mg2VyL.jpg", "8123vjU5GiL.jpg", "71Qm38BTl9L.jpg", "81uJbQ813mL.jpg", "71JNHC12XHL.jpg", "B1a1zbqjOhS._SL1600_.jpg", "B1m5TN5YIPS._SL1600_.jpg", "61Mo8mK4BgL.jpg", "B00B3L0550-0.jpg", "B00B3L0550-1.jpg", "B00B3L0550-2.jpg", "B00B3L0550-3.jpg", "B00B3L0550-4.jpg"]}, "B00B3KOODU": {"Positive": {"Ref": ["715phyFvMDL.jpg", "61nSGwAB-eL._SL1600_.jpg", "71h4QyNRikL.jpg"], "Eval": ["71Wti4AB6jL.jpg", "71UMexBMjGL.jpg", "71d4QY6qznL.jpg", "71KpZLzyXYL.jpg"]}, "Negative": ["7118atj4HIL.jpg", "B1MKZWTJiwS._SL1600_.jpg", "8123vjU5GiL.jpg", "61CNHfUjCzL.jpg", "61QGt8vZyyL._SL1600_.jpg", "61NAIUaK3IL._SL1600_.jpg", "7187Z4iXywL.jpg", "71bYgB3At8L.jpg", "71n9dGi0HhL.jpg", "615SyJ9J6nL._SL1600_.jpg", "B00B3KOODU-0.jpg", "B00B3KOODU-1.jpg", "B00B3KOODU-2.jpg", "B00B3KOODU-3.jpg", "B00B3KOODU-4.jpg"]}, "B0087V00K4": {"Positive": {"Ref": ["711M1UKIsXL._SL1600_.jpg", "711rHet-KWL.jpg", "B1a1zbqjOhS._SL1600_.jpg"], "Eval": ["71QY4shdrNL._SL1600_.jpg", "81SlFoWdeWL._SL1600_.jpg", "61Mo8mK4BgL.jpg", "61C-JHhSC7L._SL1600_.jpg", "716Ejs-HriL.jpg", "71JNHC12XHL.jpg"]}, "Negative": ["B1m5TN5YIPS._SL1600_.jpg", "7118atj4HIL.jpg", "71JIR5AOxLL.jpg", "71-ugs1eaGL._SL1600_.jpg", "61VMDJFuiCL.jpg", "615SyJ9J6nL._SL1600_.jpg", "71KpZLzyXYL.jpg", "71h4QyNRikL.jpg", "71jlNRMVyyL.jpg", "81uJbQ813mL.jpg", "81zfuCm93sL.jpg", "71ZMrqgYQiL.jpg", "B0087V00K4-0.jpg", "B0087V00K4-1.jpg", "B0087V00K4-2.jpg", "B0087V00K4-3.jpg", "B0087V00K4-4.jpg"]}, "B008YQ4WHO": {"Positive": {"Ref": ["B1m5TN5YIPS._SL1600_.jpg", "71itHWaJDoL.jpg", "8123vjU5GiL.jpg"], "Eval": ["812Iw0jMYqL.jpg", "61Jd6o2uJoL.jpg", "81HHffEpIXL.jpg"]}, "Negative": ["61Mo8mK4BgL.jpg", "7118atj4HIL.jpg", "615SyJ9J6nL._SL1600_.jpg", "61VMDJFuiCL.jpg", "813OTKyy7IL.jpg", "71JIR5AOxLL.jpg", "71yOrxYtu3L.jpg", "81dMc60tCWL.jpg"]}}
+{
+  "borby lantern": {
+    "Positive": {
+      "Ref": [
+        "a0da794e.jpeg",
+        "07636f38.jpeg",
+        "c8a89fda.jpeg",
+        "3af6d21d.jpeg",
+        "5d681cfa.jpeg"
+      ],
+      "Eval": [
+        "5c173e28.jpeg",
+        "344a39ba.jpeg",
+        "069c4906.jpeg",
+        "df7327f4.jpeg",
+        "c013fe62.jpeg"
+      ]
+    },
+    "Negative": [
+      "6f5b123a.jpeg",
+      "8affdab0.jpeg",
+      "78eeb5a3.jpeg",
+      "34ec7efa.jpeg",
+      "fff010b4.jpeg"
+    ]
+  },
+  "enrum lantern": {
+    "Positive": {
+      "Ref": [
+        "c770ae5e.jpeg",
+        "3dfef889.jpeg",
+        "1081fdbb.jpeg",
+        "07ebd222.jpeg"
+      ],
+      "Eval": [
+        "7a67f131.jpeg",
+        "3825544d.jpeg",
+        "433ebe70.jpeg",
+        "e0eae56b.jpeg",
+        "e5512c5f.jpeg"
+      ]
+    },
+    "Negative": [
+      "5f7aae3b.jpeg",
+      "f398151c.jpeg",
+      "351155c7.jpeg",
+      "3615e02e.jpeg",
+      "c9946bb3.jpeg"
+    ]
+  },
+  "befasta lantern": {
+    "Positive": {
+      "Ref": [
+        "dc276218.jpeg",
+        "6d2d129e.jpeg",
+        "a295e27d.jpeg"
+      ],
+      "Eval": [
+        "e7c47a17.jpeg",
+        "9569e7ec.jpeg",
+        "99463c8e.jpeg",
+        "5a851756.jpeg",
+        "ff23f1d1.jpeg"
+      ]
+    },
+    "Negative": [
+      "4ef579c5.jpeg",
+      "d811a263.jpeg",
+      "01176ffe.jpeg",
+      "037b76f4.jpeg",
+      "bd7c3341.jpeg"
+    ]
+  },
+  "B00B3L0550": {
+    "Positive": {
+      "Ref": [
+        "91U3huD4XCL._SL1600_.jpg",
+        "61CNHfUjCzL.jpg",
+        "7187Z4iXywL.jpg",
+        "7118atj4HIL.jpg"
+      ],
+      "Eval": [
+        "71yOrxYtu3L.jpg",
+        "813OTKyy7IL.jpg",
+        "61VMDJFuiCL.jpg",
+        "615SyJ9J6nL._SL1600_.jpg",
+        "81eHJjnudmL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71JIR5AOxLL.jpg",
+      "B1MKZWTJiwS._SL1600_.jpg",
+      "61Jd6o2uJoL.jpg",
+      "71KpZLzyXYL.jpg",
+      "71n9dGi0HhL.jpg",
+      "61Ld4mg2VyL.jpg",
+      "81uJbQ813mL.jpg",
+      "71JNHC12XHL.jpg",
+      "B1a1zbqjOhS._SL1600_.jpg",
+      "61Mo8mK4BgL.jpg"
+    ]
+  },
+  "B00B3KOODU": {
+    "Positive": {
+      "Ref": [
+        "715phyFvMDL.jpg",
+        "61nSGwAB-eL._SL1600_.jpg",
+        "71h4QyNRikL.jpg"
+      ],
+      "Eval": [
+        "71Wti4AB6jL.jpg",
+        "71UMexBMjGL.jpg",
+        "71d4QY6qznL.jpg",
+        "71KpZLzyXYL.jpg"
+      ]
+    },
+    "Negative": [
+      "7118atj4HIL.jpg",
+      "B1MKZWTJiwS._SL1600_.jpg",
+      "71n9dGi0HhL.jpg",
+      "615SyJ9J6nL._SL1600_.jpg",
+      "B00B3KOODU-0.jpg",
+      "B00B3KOODU-4.jpg"
+    ]
+  },
+  "B0087V00K4": {
+    "Positive": {
+      "Ref": [
+        "711M1UKIsXL._SL1600_.jpg",
+        "711rHet-KWL.jpg",
+        "B1a1zbqjOhS._SL1600_.jpg"
+      ],
+      "Eval": [
+        "71QY4shdrNL._SL1600_.jpg",
+        "61Mo8mK4BgL.jpg",
+        "61C-JHhSC7L._SL1600_.jpg",
+        "716Ejs-HriL.jpg",
+        "71JNHC12XHL.jpg"
+      ]
+    },
+    "Negative": [
+      "7118atj4HIL.jpg",
+      "71JIR5AOxLL.jpg",
+      "61VMDJFuiCL.jpg",
+      "615SyJ9J6nL._SL1600_.jpg",
+      "71KpZLzyXYL.jpg",
+      "71h4QyNRikL.jpg",
+      "81uJbQ813mL.jpg",
+      "B0087V00K4-2.jpg",
+      "B0087V00K4-3.jpg"
+    ]
+  },
+  "B008YQ4WHO": {
+    "Positive": {
+      "Ref": [
+        "B1m5TN5YIPS._SL1600_.jpg",
+        "71itHWaJDoL.jpg",
+        "8123vjU5GiL.jpg"
+      ],
+      "Eval": [
+        "812Iw0jMYqL.jpg",
+        "61Jd6o2uJoL.jpg",
+        "81HHffEpIXL.jpg"
+      ]
+    },
+    "Negative": [
+      "61Mo8mK4BgL.jpg",
+      "7118atj4HIL.jpg",
+      "615SyJ9J6nL._SL1600_.jpg",
+      "61VMDJFuiCL.jpg",
+      "813OTKyy7IL.jpg",
+      "71JIR5AOxLL.jpg",
+      "71yOrxYtu3L.jpg"
+    ]
+  }
+}

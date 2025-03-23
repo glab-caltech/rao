@@ -28,12 +28,23 @@
             cursor: pointer;
             font-size: 20px;
             transition: background-color 0.3s ease;
-            margin-top: 10px;
+            margin-top: 0px;
         }
 
         /* Style for supercategory and subcategory buttons */
         .category-button {
-            background-color: #2f4b7c;
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        .json-button {
+            background-color: #333;
             color: white;
             padding: 10px 20px;
             border: none;
@@ -44,9 +55,9 @@
             margin-top: 10px;
         }
 
-        .json-button {
-            background-color: #665191;
-            color: white;
+        .next-instance-button {
+            background-color: #d3d3d3;
+            color: #333;
             padding: 10px 20px;
             border: none;
             border-radius: 25px;
@@ -58,8 +69,64 @@
 
         /* Active style for selected supercategory button */
         .active {
-            background-color: #ffa600;
+            background-color: #FF6C0C;
             color: white;
+        }
+
+        /* Container that holds the Positives and Negatives sections side-by-side */
+        .images-container {
+            display: none;
+            flex-direction: row;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 20px;
+            margin: 0 auto;
+            max-width: 80%;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+
+        /* Vertical divider */
+        .vertical-divider {
+            width: 1px;
+            background-color: #ccc;
+            align-self: stretch;
+        }
+
+        .horizontal-divider {
+            /* Make it short by limiting the width */
+            width: 40%;
+            /* Make it a thin bar */
+            height: 2px;
+            /* Same color as vertical divider or slightly lighter */
+            background-color: #ccc;
+            /* Center it horizontally */
+            margin: 10px auto;
+        }
+
+        /* Left and right sections */
+        .left-section,
+        .right-section {
+            flex: 1;
+        }
+
+        .section-title {
+            text-align: center;
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-size: 2.0em;
+        }
+
+        /* Image styling */
+        .image-wrapper {
+            display: inline-block;
+            margin: 5px;
+        }
+
+        .image-wrapper img {
+            max-width: 275px;
+            max-height: 275px;
+            display: block;
         }
     </style>
 
@@ -93,27 +160,67 @@
                         <div class="column has-text-centered">
                             <div class="publication-links">
                                 <div class="button-container">
-                                    <button class="main-page-button"
-                                        onclick="window.location.href='https://glab-caltech.github.io/rao/';">
-                                        Main Page
+                                    <span class="link-block">
+                                        <a href="" class="external-link button is-normal is-rounded is-dark">
+                                            <span class="icon">
+                                                <i class="fa fa-home"></i>
+                                            </span>
+                                            <span>Main Page</span>
+                                        </a>
+                                    </span>
+                                    <span class="link-block">
+                                        <a href="" class="external-link button is-normal is-rounded is-dark">
+                                            <span class="icon">
+                                                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+                                                    alt="Hugging Face logo" style="height: 1em;">
+                                            </span>
+                                            <span>Dataset</span>
+                                        </a>
+                                    </span>
+                                </div>
+                                <div class="horizontal-divider"></div>
+                                <!-- Supercategory buttons container -->
+                                <div class="button-container" id="supercategories"> </div>
+
+                                <!-- Subcategory (JSON file) buttons container -->
+                                <div class="button-container" id="subcategories"></div>
+
+                                <!-- Next Category button -->
+                                <div class="button-container" id="subcategories">
+                                    <button class="next-instance-button" id="next-instance-button"
+                                        style="display: none;">
+                                        Next Instance
                                     </button>
                                 </div>
+
                             </div>
                         </div>
+
                     </div>
+                </div>
+            </div>
+            <div class="images-container">
+                <!-- Left Section -->
+                <div class="left-section">
+                    <div class="section-title">Positives</div>
+                    <div id="positive-images"></div>
+                </div>
+
+                <!-- Vertical divider -->
+                <div class="vertical-divider"></div>
+
+                <!-- Right Section -->
+                <div class="right-section">
+                    <div class="section-title">Negatives</div>
+                    <div id="negative-images"></div>
                 </div>
             </div>
         </div>
     </section>
-    <section>
-        <!-- Supercategory buttons container -->
-        <div class="button-container" id="supercategories"> </div>
 
-        <!-- Subcategory (JSON file) buttons container -->
-        <div class="button-container" id="subcategories"></div>
-    </section>
 
     <script>
+        let currentJsonData = null;
         // Example data structure mapping each supercategory to its list of JSON files.
         const categoryData = {
             'Electronics': ['Earbuds', 'Fans', 'Headphones', 'Keyboards', 'Laptops', 'Microphones', 'Mice', 'Radios', 'Smartwatches', 'Speakers'],
@@ -145,18 +252,109 @@
             }
         }
 
-        // Load subcategory buttons for the selected supercategory.
         function loadSubcategories(category) {
             const subContainer = document.getElementById('subcategories');
             // Clear any existing subcategory buttons.
             subContainer.innerHTML = '';
+
             const files = categoryData[category];
-            files.forEach(file => {
+            files.forEach(displayName => {
                 const btn = document.createElement('button');
-                btn.textContent = file;
+                btn.textContent = displayName;
                 btn.className = 'json-button';
-                // Add any additional click actions for these buttons if needed.
+                // On click, fetch the JSON file and display a random instance.
+                btn.onclick = function () {
+                    document.querySelectorAll('.json-button').forEach(b => b.classList.remove('active'));
+                    // Set the clicked button as active.
+                    btn.classList.add('active');
+
+                    const fileName = displayName.toLowerCase() + '.json';
+                    loadJson(category, fileName);
+                };
                 subContainer.appendChild(btn);
+            });
+        }
+
+        // Fetch JSON and select a random instance
+        function loadJson(category, file) {
+            const url = `sid/supercategories/${category}/${file}`;
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Network response was not ok: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(jsonData => {
+                    currentJsonData = jsonData; // store globally
+                    pickAndDisplayRandomInstance(jsonData);
+
+                    // Show the "Next Instance" button now that we have data
+                    document.querySelector('.images-container').style.display = 'flex';
+                    document.getElementById('next-instance-button').style.display = 'inline-block';
+                })
+                .catch(error => {
+                    console.error('Error loading JSON:', error);
+                });
+        }
+
+        function pickAndDisplayRandomInstance(jsonData) {
+            // Clear old images
+            document.getElementById('positive-images').innerHTML = '';
+            document.getElementById('negative-images').innerHTML = '';
+
+            const instanceKeys = Object.keys(jsonData);
+            const randomIndex = Math.floor(Math.random() * instanceKeys.length);
+            const randomInstance = instanceKeys[randomIndex];
+
+            // Get arrays of filenames
+            const positives = jsonData[randomInstance].Positive.Eval || [];
+            const negatives = jsonData[randomInstance].Negative || [];
+
+            // Sample up to 5
+            const posSamples = getRandomSample(positives, Math.min(5, positives.length));
+            const negSamples = getRandomSample(negatives, Math.min(5, negatives.length));
+
+            // Display images
+            displayImages(posSamples, 'positive-images');
+            displayImages(negSamples, 'negative-images');
+        }
+
+        // Re-sample from the current JSON when "Next Instance" is clicked
+        document.addEventListener('DOMContentLoaded', () => {
+            const nextButton = document.getElementById('next-instance-button');
+            nextButton.addEventListener('click', () => {
+                if (currentJsonData) {
+                    pickAndDisplayRandomInstance(currentJsonData);
+                }
+            });
+        });
+
+        // Helper: get random sample of size n from array
+        function getRandomSample(arr, n) {
+            const copy = [...arr];
+            const sample = [];
+            for (let i = 0; i < n; i++) {
+                const randIndex = Math.floor(Math.random() * copy.length);
+                sample.push(copy.splice(randIndex, 1)[0]);
+            }
+            return sample;
+        }
+
+        // Helper: display images
+        function displayImages(imageArray, containerId) {
+            const container = document.getElementById(containerId);
+            imageArray.forEach(filename => {
+                const wrapper = document.createElement('div');
+                wrapper.className = 'image-wrapper';
+                const imgPath = `sid/images/${filename}`; // adjust path if needed
+
+                const img = document.createElement('img');
+                img.src = imgPath;
+                img.alt = filename;
+
+                wrapper.appendChild(img);
+                container.appendChild(wrapper);
             });
         }
 

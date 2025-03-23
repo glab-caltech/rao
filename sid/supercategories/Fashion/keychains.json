@@ -1,1 +1,138 @@
-{"B07TMCYKDG": {"Positive": {"Ref": ["61wSIhvQ9kL._SL1600_.jpg", "71bDMWux01L.jpg", "61fr20pJ1XL._SL1600_.jpg"], "Eval": ["71q53OrFVDL._SL1600_.jpg", "B1MAVoCBYzS._SL1600_.jpg", "C1Giynm6TiS._SL1600_.jpg", "71EvRkN8d6L._SL1600_.jpg"]}, "Negative": ["71OqulOrkhL.jpg", "81NDOKfN-9L.jpg", "B1Fh0qsNQbS._SL1600_.jpg", "81Jo2s+DcPL._SL1600_.jpg", "71b2Id25GuL.jpg", "71MGX2FdhjL._SL1600_.jpg", "B07TMCYKDG-0.jpg", "B07TMCYKDG-1.jpg", "B07TMCYKDG-2.jpg", "B07TMCYKDG-3.jpg"]}, "B07ZFFS7Q9": {"Positive": {"Ref": ["71aGdb0nwWL._SL1600_.jpg", "71RZqMELh6L._SL1600_.jpg", "B1Fh0qsNQbS._SL1600_.jpg"], "Eval": ["91UdpZCMhKL._SL1600_.jpg", "71GdP8bd3qL._SL1600_.jpg", "81IasFnqH5L._SL1600_.jpg", "71ETCXEXU6L._SL1600_.jpg", "71ggtb6lWdL._SL1600_.jpg"]}, "Negative": ["71q53OrFVDL._SL1600_.jpg", "C12rvKJMpTS._SL1600_.jpg", "81XZ5jjlGpL._SL1600_.jpg", "71+PXuPzAgL.jpg", "81Jo2s+DcPL._SL1600_.jpg", "71b2Id25GuL.jpg", "81NDOKfN-9L.jpg", "71OqulOrkhL.jpg", "B07ZFFS7Q9-0.jpg", "B07ZFFS7Q9-1.jpg", "B07ZFFS7Q9-2.jpg", "B07ZFFS7Q9-3.jpg", "B07ZFFS7Q9-4.jpg"]}, "B07CS49H9B": {"Positive": {"Ref": ["81XZ5jjlGpL._SL1600_.jpg", "816f5Zd+njL.jpg", "71wk7xStgeL.jpg"], "Eval": ["71+PXuPzAgL.jpg", "71apnllRG1L.jpg", "71IMiJ8AfuL.jpg", "71RQuzNth8L.jpg"]}, "Negative": ["71ETCXEXU6L._SL1600_.jpg", "81Qujuswh1L.jpg", "71EvRkN8d6L._SL1600_.jpg", "71MGX2FdhjL._SL1600_.jpg", "71b2Id25GuL.jpg", "C1Giynm6TiS._SL1600_.jpg", "B1Fh0qsNQbS._SL1600_.jpg", "81NDOKfN-9L.jpg", "71RZqMELh6L._SL1600_.jpg", "81Hm-14sUML._SL1600_.jpg", "C1P7XqNydiS._SL1600_.jpg", "B1MAVoCBYzS._SL1600_.jpg", "71OqulOrkhL.jpg", "71bDMWux01L.jpg", "8104+Uv7zPL._SL1600_.jpg", "B07CS49H9B-0.jpg", "B07CS49H9B-1.jpg", "B07CS49H9B-2.jpg", "B07CS49H9B-3.jpg", "B07CS49H9B-4.jpg"]}, "B07N2P2B5Q": {"Positive": {"Ref": ["71KbibxTYlL.jpg", "8104+Uv7zPL._SL1600_.jpg", "C1P7XqNydiS._SL1600_.jpg"], "Eval": ["81Qujuswh1L.jpg", "71MGX2FdhjL._SL1600_.jpg", "B1ZUFTtXZIS._SL1600_.jpg", "71CBHD1bgJL.jpg", "81itoDwR1rL._SL1600_.jpg"]}, "Negative": ["B1MAVoCBYzS._SL1600_.jpg", "71apnllRG1L.jpg", "71bDMWux01L.jpg", "B1Fh0qsNQbS._SL1600_.jpg", "71OqulOrkhL.jpg", "81NDOKfN-9L.jpg", "71+PXuPzAgL.jpg", "71b2Id25GuL.jpg", "B07N2P2B5Q-1.jpg", "B07N2P2B5Q-2.jpg", "B07N2P2B5Q-3.jpg", "B07N2P2B5Q-4.jpg"]}, "B07TNJBFJ2": {"Positive": {"Ref": ["C12rvKJMpTS._SL1600_.jpg", "81Jo2s+DcPL._SL1600_.jpg", "81NDOKfN-9L.jpg"], "Eval": ["71OqulOrkhL.jpg", "71b2Id25GuL.jpg", "81Hm-14sUML._SL1600_.jpg"]}, "Negative": ["B1Fh0qsNQbS._SL1600_.jpg", "71MGX2FdhjL._SL1600_.jpg", "71ETCXEXU6L._SL1600_.jpg", "B1MAVoCBYzS._SL1600_.jpg", "8104+Uv7zPL._SL1600_.jpg", "71+PXuPzAgL.jpg", "71RZqMELh6L._SL1600_.jpg", "81IasFnqH5L._SL1600_.jpg", "71GdP8bd3qL._SL1600_.jpg", "71q53OrFVDL._SL1600_.jpg", "81Qujuswh1L.jpg", "C1Giynm6TiS._SL1600_.jpg", "B07TNJBFJ2-0.jpg", "B07TNJBFJ2-1.jpg", "B07TNJBFJ2-2.jpg", "B07TNJBFJ2-3.jpg", "B07TNJBFJ2-4.jpg"]}}
+{
+  "B07TMCYKDG": {
+    "Positive": {
+      "Ref": [
+        "61wSIhvQ9kL._SL1600_.jpg",
+        "71bDMWux01L.jpg",
+        "61fr20pJ1XL._SL1600_.jpg"
+      ],
+      "Eval": [
+        "71q53OrFVDL._SL1600_.jpg",
+        "B1MAVoCBYzS._SL1600_.jpg",
+        "C1Giynm6TiS._SL1600_.jpg",
+        "71EvRkN8d6L._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71OqulOrkhL.jpg",
+      "81NDOKfN-9L.jpg",
+      "B1Fh0qsNQbS._SL1600_.jpg",
+      "81Jo2s+DcPL._SL1600_.jpg",
+      "71b2Id25GuL.jpg",
+      "71MGX2FdhjL._SL1600_.jpg",
+      "B07TMCYKDG-3.jpg"
+    ]
+  },
+  "B07ZFFS7Q9": {
+    "Positive": {
+      "Ref": [
+        "71aGdb0nwWL._SL1600_.jpg",
+        "71RZqMELh6L._SL1600_.jpg",
+        "B1Fh0qsNQbS._SL1600_.jpg"
+      ],
+      "Eval": [
+        "91UdpZCMhKL._SL1600_.jpg",
+        "71GdP8bd3qL._SL1600_.jpg",
+        "81IasFnqH5L._SL1600_.jpg",
+        "71ETCXEXU6L._SL1600_.jpg",
+        "71ggtb6lWdL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "71q53OrFVDL._SL1600_.jpg",
+      "71+PXuPzAgL.jpg",
+      "81Jo2s+DcPL._SL1600_.jpg",
+      "71b2Id25GuL.jpg",
+      "81NDOKfN-9L.jpg",
+      "71OqulOrkhL.jpg",
+      "B07ZFFS7Q9-2.jpg"
+    ]
+  },
+  "B07CS49H9B": {
+    "Positive": {
+      "Ref": [
+        "81XZ5jjlGpL._SL1600_.jpg",
+        "816f5Zd+njL.jpg",
+        "71wk7xStgeL.jpg"
+      ],
+      "Eval": [
+        "71+PXuPzAgL.jpg",
+        "71apnllRG1L.jpg",
+        "71IMiJ8AfuL.jpg",
+        "71RQuzNth8L.jpg"
+      ]
+    },
+    "Negative": [
+      "71ETCXEXU6L._SL1600_.jpg",
+      "81Qujuswh1L.jpg",
+      "71EvRkN8d6L._SL1600_.jpg",
+      "71MGX2FdhjL._SL1600_.jpg",
+      "71b2Id25GuL.jpg",
+      "C1Giynm6TiS._SL1600_.jpg",
+      "B1Fh0qsNQbS._SL1600_.jpg",
+      "81NDOKfN-9L.jpg",
+      "71RZqMELh6L._SL1600_.jpg",
+      "81Hm-14sUML._SL1600_.jpg",
+      "B1MAVoCBYzS._SL1600_.jpg",
+      "71OqulOrkhL.jpg",
+      "71bDMWux01L.jpg",
+      "B07CS49H9B-0.jpg"
+    ]
+  },
+  "B07N2P2B5Q": {
+    "Positive": {
+      "Ref": [
+        "71KbibxTYlL.jpg",
+        "8104+Uv7zPL._SL1600_.jpg",
+        "C1P7XqNydiS._SL1600_.jpg"
+      ],
+      "Eval": [
+        "81Qujuswh1L.jpg",
+        "71MGX2FdhjL._SL1600_.jpg",
+        "B1ZUFTtXZIS._SL1600_.jpg",
+        "71CBHD1bgJL.jpg",
+        "81itoDwR1rL._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "B1MAVoCBYzS._SL1600_.jpg",
+      "71apnllRG1L.jpg",
+      "71bDMWux01L.jpg",
+      "B1Fh0qsNQbS._SL1600_.jpg",
+      "71OqulOrkhL.jpg",
+      "81NDOKfN-9L.jpg",
+      "71+PXuPzAgL.jpg",
+      "71b2Id25GuL.jpg",
+      "B07N2P2B5Q-2.jpg",
+      "B07N2P2B5Q-4.jpg"
+    ]
+  },
+  "B07TNJBFJ2": {
+    "Positive": {
+      "Ref": [
+        "C12rvKJMpTS._SL1600_.jpg",
+        "81Jo2s+DcPL._SL1600_.jpg",
+        "81NDOKfN-9L.jpg"
+      ],
+      "Eval": [
+        "71OqulOrkhL.jpg",
+        "71b2Id25GuL.jpg",
+        "81Hm-14sUML._SL1600_.jpg"
+      ]
+    },
+    "Negative": [
+      "B1Fh0qsNQbS._SL1600_.jpg",
+      "71MGX2FdhjL._SL1600_.jpg",
+      "71ETCXEXU6L._SL1600_.jpg",
+      "B1MAVoCBYzS._SL1600_.jpg",
+      "71+PXuPzAgL.jpg",
+      "71RZqMELh6L._SL1600_.jpg",
+      "81IasFnqH5L._SL1600_.jpg",
+      "71GdP8bd3qL._SL1600_.jpg",
+      "71q53OrFVDL._SL1600_.jpg",
+      "81Qujuswh1L.jpg",
+      "C1Giynm6TiS._SL1600_.jpg",
+      "B07TNJBFJ2-2.jpg"
+    ]
+  }
+}
